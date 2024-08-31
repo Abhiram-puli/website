@@ -52,8 +52,9 @@ max-height: 100px;
 header{width: 100%;
   /* position: absolute;
   top: 0; */
-   height: 200px;
+   min-height: 200px;
 background-color: #986C6A;
+
 }
 nav{
  
@@ -92,14 +93,11 @@ nav a:hover{
 
 main{
   flex-grow: 1;
-
-
+/* background-image: url('../PHOTOS/pexels-welov-10964248.jpg');
+background-size: cover; */
 }
-.overflow{
-  width: 100%;
-  background-color: white;
- overflow: scroll;
-
+.location{
+  color: rgb(0, 0, 0);
 }
 
 footer{
@@ -107,6 +105,7 @@ footer{
 bottom: 0;
   background-color: gray ;
   flex-grow: 1;
+ 
 
 }
 .redirect{
@@ -116,11 +115,79 @@ bottom: 0;
   text-decoration:none;
   padding: auto 5px;
   overflow: hidden;
-  color: rgba(0, 255, 255, 0.178);
-background-color: rgba(10, 10, 9, 0.527);
+  color: rgba(77, 80, 80, 0.523);
+/* background-color: rgba(10, 10, 9, 0.527); */
 
 }
 .redirect a:hover,a:focus {
-  background-color: rgb(0, 0, 0);
+  /* background-color: rgb(0, 0, 0); */
   color: rgb(230, 239, 65);
 }
+.social a{
+color: #f9f9f9;
+}
+.social a:hover,a:focus{
+  color:#a90b4a ;
+}
+#map {
+  width: 100%;
+  height: 100%;
+display: block;
+padding: 7rem;}
+
+/* .slider {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  height: 700px; 
+}
+
+.slides {
+  display: flex;
+  transition: transform 1s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@keyframes fade {
+  0% { opacity: 0; }
+  20% { opacity: 1; }
+  80% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  animation: fade 10s infinite;
+}
+
+.slide:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.slide:nth-child(2) {
+  animation-delay: 3.33s;
+}
+
+.slide:nth-child(3) {
+  animation-delay: 6.66s;
+}
+.slide:nth-child(4) {
+  animation-delay: 9.99s;
+}
+.slide:nth-child(5) {
+  animation-delay: 13.32s;
+} */

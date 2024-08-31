@@ -1,0 +1,1084 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=10.0, user-scalable=yes">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>Maps &#038; Directions &#8211; VNIT Nagpur</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="VNIT Nagpur &raquo; Feed" href="https://vnit.ac.in/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VNIT Nagpur &raquo; Comments Feed" href="https://vnit.ac.in/comments/feed/" />
+<link rel='stylesheet' id='gs-swiper-css' href='https://vnit.ac.in/wp-content/plugins/gs-logo-slider/assets/libs/swiper-js/swiper.min.css?ver=3.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gs-tippyjs-css' href='https://vnit.ac.in/wp-content/plugins/gs-logo-slider/assets/libs/tippyjs/tippy.css?ver=3.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='gs-logo-public-css' href='https://vnit.ac.in/wp-content/plugins/gs-logo-slider/assets/css/gs-logo.min.css?ver=3.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css' href='https://vnit.ac.in/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.35' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://vnit.ac.in/wp-content/plugins/gutenberg/build/block-library/style.css?ver=18.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css' href='https://vnit.ac.in/wp-content/plugins/gutenberg/build/block-library/theme.css?ver=18.4.1' type='text/css' media='all' />
+<style id='gutena-tabs-style-inline-css' type='text/css'>
+.gutena-tabs-block{display:flex;flex-direction:column;position:relative;row-gap:var(--gutena--tabs-tab-after-gap,10px)}@media only screen and (max-width:780px)and (min-width:361px){.gutena-tabs-block.tablet-scroll>.gutena-tabs-tab{flex-wrap:nowrap;justify-content:flex-start!important;overflow:auto;white-space:nowrap}.gutena-tabs-block.tablet-scroll>.gutena-tabs-tab>.gutena-tab-title{flex:1 0 auto}}@media only screen and (max-width:360px){.gutena-tabs-block.mobile-scroll>.gutena-tabs-tab{flex-wrap:nowrap;justify-content:flex-start!important;overflow:auto;white-space:nowrap}.gutena-tabs-block.mobile-scroll>.gutena-tabs-tab>.gutena-tab-title{flex:1 0 auto}}.gutena-tabs-block>.gutena-tabs-tab{display:flex;flex-wrap:wrap;gap:var(--gutena--tabs-tab-spacing,10px);justify-content:flex-start;list-style:none;margin:0;padding:0;position:relative}.gutena-tabs-block>.gutena-tabs-tab .gutena-tab-title{min-width:var(--gutena--tabs-tab-min-width)}.gutena-tabs-block>.gutena-tabs-tab.tab-center{justify-content:center}.gutena-tabs-block>.gutena-tabs-tab.tab-right{justify-content:flex-end}.gutena-tabs-block>.gutena-tabs-tab.tab-flex .gutena-tab-title{flex:1 0 var(--gutena--tabs-tab-min-width,auto);min-width:none}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title{background:var(--gutena--tabs-tab-background-gradient-color,var(--gutena--tabs-tab-background-color,#fff));border-bottom:var(--gutena--tabs-tab-border-bottom);border-left:var(--gutena--tabs-tab-border-left);border-radius:var(--gutena--tabs-tab-border-radius);border-right:var(--gutena--tabs-tab-border-right);border-top:var(--gutena--tabs-tab-border-top);box-shadow:var(--gutena--tabs-tab-box-shadow);color:var(--gutena--tabs-tab-text-color,#000);cursor:pointer;font-family:var(--gutena--tabs-tab-font-family,inherit);font-size:var(--gutena--tabs-tab-font-size,14px);font-style:var(--gutena--tabs-tab-font-style);font-weight:var(--gutena--tabs-tab-font-weight);padding:var(--gutena--tabs-tab-padding);position:relative;text-align:center;text-transform:var(--gutena--tabs-tab-text-transfrom)}@media only screen and (max-width:780px){.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title{padding:var(--gutena--tabs-tab-padding-tablet,var(--gutena--tabs-tab-padding))}}@media only screen and (max-width:360px){.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title{padding:var(--gutena--tabs-tab-padding-mobile,var(--gutena--tabs-tab-padding-tablet,var(--gutena--tabs-tab-padding)))}}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title:hover{background:var(--gutena--tabs-tab-hover-background-gradient-color,var(--gutena--tabs-tab-hover-background-color,#fff));border-bottom:var(--gutena--tabs-tab-hover-border-bottom,var(--gutena--tabs-tab-border-bottom));border-left:var(--gutena--tabs-tab-hover-border-left,var(--gutena--tabs-tab-border-left));border-radius:var(--gutena--tabs-tab-hover-border-radius,var(--gutena--tabs-tab-border-radius));border-right:var(--gutena--tabs-tab-hover-border-right,var(--gutena--tabs-tab-border-right));border-top:var(--gutena--tabs-tab-hover-border-top,var(--gutena--tabs-tab-border-top));box-shadow:var(--gutena--tabs-tab-hover-box-shadow,var(--gutena--tabs-tab-box-shadow));color:var(--gutena--tabs-tab-hover-text-color,var(--gutena--tabs-tab-text-color,#000));z-index:4}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title:hover>.gutena-tab-title-content .gutena-tab-title-icon svg{fill:var(--gutena--tabs-tab-hover-icon-color)}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title.active{background:var(--gutena--tabs-tab-active-background-gradient-color,var(--gutena--tabs-tab-active-background-color,#fff));border-bottom:var(--gutena--tabs-tab-active-border-bottom);border-left:var(--gutena--tabs-tab-active-border-left);border-radius:var(--gutena--tabs-tab-active-border-radius);border-right:var(--gutena--tabs-tab-active-border-right);border-top:var(--gutena--tabs-tab-active-border-top);box-shadow:var(--gutena--tabs-tab-active-box-shadow);color:var(--gutena--tabs-tab-active-text-color,#000);z-index:4}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title.active>.gutena-tab-title-content .gutena-tab-title-icon svg{fill:var(--gutena--tabs-tab-active-icon-color)}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title.active>.gutena-tab-title-content .gutena-tab-title-icon svg path{stroke-width:5px}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title>.gutena-tab-title-content{align-items:center;display:inline-flex;flex-direction:row;height:100%;justify-content:center}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title>.gutena-tab-title-content .gutena-tab-title-icon{height:100%}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title>.gutena-tab-title-content .gutena-tab-title-icon svg{height:100%;fill:var(--gutena--tabs-tab-icon-color)}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title>.gutena-tab-title-content.icon-left .gutena-tab-title-icon{margin-left:-3px;margin-right:calc(var(--gutena--tabs-tab-icon-spacing, 10)*1px)}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title>.gutena-tab-title-content.icon-right{flex-direction:row-reverse}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title>.gutena-tab-title-content.icon-right .gutena-tab-title-icon{margin-left:calc(var(--gutena--tabs-tab-icon-spacing, 10)*1px);margin-right:-3px}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title>.gutena-tab-title-content.icon-top{flex-direction:column}.gutena-tabs-block>.gutena-tabs-tab>.gutena-tab-title>.gutena-tab-title-content.icon-top .gutena-tab-title-icon{margin-bottom:calc(var(--gutena--tabs-tab-icon-spacing, 10)*1px)}.gutena-tabs-block>.gutena-tabs-content{margin:0!important;position:relative;z-index:2}.gutena-tabs-block>.gutena-tabs-content>.gutena-tab-block{background:var(--gutena--tabs-tab-container-background-gradient-color,var(--gutena--tabs-tab-container-background-color,#fff));border-bottom:var(--gutena--tabs-tab-container-border-bottom);border-left:var(--gutena--tabs-tab-container-border-left);border-radius:var(--gutena--tabs-tab-container-border-radius);border-right:var(--gutena--tabs-tab-container-border-right);border-top:var(--gutena--tabs-tab-container-border-top);box-shadow:var(--gutena--tabs-tab-container-box-shadow);color:var(--gutena--tabs-tab-container-text-color,#000);margin:0;padding:var(--gutena--tabs-tab-container-padding)}@media only screen and (max-width:780px){.gutena-tabs-block>.gutena-tabs-content>.gutena-tab-block{padding:var(--gutena--tabs-tab-container-padding-tablet,var(--gutena--tabs-tab-container-padding))}}@media only screen and (max-width:360px){.gutena-tabs-block>.gutena-tabs-content>.gutena-tab-block{padding:var(--gutena--tabs-tab-container-padding-mobile,var(--gutena--tabs-tab-container-padding-tablet,var(--gutena--tabs-tab-container-padding)))}}.gutena-tabs-block>.gutena-tabs-content>.gutena-tab-block:not(.active){display:none}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='gutena-kit-block-css' href='https://vnit.ac.in/wp-content/plugins/gutena-kit/public/css/block-editor.min.css?ver=2.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='gutena-kit-css' href='https://vnit.ac.in/wp-content/plugins/gutena-kit/public/css/gutena-kit-public.min.css?ver=2.0.7' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item > a.mega-menu-link{font-size:13px!important;}
+#page-breadcrumb{display:none;}
+.nav-menu-desktop .menu>li>a {
+   text-transform: capitalize;
+    font-weight: 500;
+    font-size: 14px!important;}
+.dark-mode .nav-menu-desktop.style-border-bottom .nav-menu>li.current-menu-ancestor>a, .dark-mode .nav-menu-desktop.style-border-bottom .nav-menu>li.current-menu-item>a, .dark-mode .nav-menu-desktop.style-border-top .nav-menu>li.current-menu-ancestor>a, .dark-mode .nav-menu-desktop.style-border-top .nav-menu>li.current-menu-item>a, .dark-mode .nav-menu-desktop.style-plain .nav-menu>li.current-menu-ancestor>a, .dark-mode .nav-menu-desktop.style-plain .nav-menu>li.current-menu-item>a {
+    color: #ffffff;
+}
+body {
+    color: #686868;
+    font-family: 'Source Sans Pro','Lucida Sans Unicode','Lucida Grande',sans-serif!important;}
+.light-mode .customify-builder-social-icons.color-custom li a, .light-mode .item--html a, .light-mode .menu-mobile-toggle, .light-mode .nav-menu>li>a, .light-mode .search-icon {
+    color: rgb(0 0 0 / 63%!important);
+}
+#main, #sidebar-primary, #sidebar-secondary {
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+}
+.arrowul ul li{
+    list-style-position: inside;
+    list-style-type: none;
+    padding: 4px 4px 4px 36px;
+    background-image: url(http://vnit.creata.co.in/wp-content/uploads/2023/04/icons8-arrow-100.png);
+    background-position: left 12px;
+    background-repeat: no-repeat;
+    background-size: 14px auto;
+}
+.row-v2 .col-v2.col-v2-center {
+    justify-content: center;
+    margin-left: 0em!important;
+    margin-right: 0em!important;
+}
+.nav-menu-desktop .menu>li>a {
+    padding: 12px 2px 12px!important;
+}
+#mega-menu-wrap-menu-1 #mega-menu-menu-1 > li.mega-menu-item > a.mega-menu-link {
+    line-height: 40px;
+    height: 40px;
+	padding: 0px 4px 6px 4px!important;}
+.gs_logo_title{display:none!important;}
+.psac-widget-wrp h4.psac-post-title {
+	color: #1e4b75;
+	font-weight: bolder;
+    line-height: 22px;
+    font-size: 17px;
+    margin: 0 0 8px 0 !important;
+}
+.psac-time{font-size: 11px;}
+</style>
+<link rel='stylesheet' id='owl-carousel-style-css' href='https://vnit.ac.in/wp-content/plugins/post-slider-and-carousel/assets/css/owl.carousel.min.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='psac-public-style-css' href='https://vnit.ac.in/wp-content/plugins/post-slider-and-carousel/assets/css/psac-public.css?ver=3.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='table-addons-for-elementor-css' href='https://vnit.ac.in/wp-content/plugins/table-addons-for-elementor/public/css/table-addons-for-elementor-public.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://vnit.ac.in/wp-content/plugins/blog-designer-for-elementor/assets/css/fontawesome/fontawesome.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bdfe-style-css' href='https://vnit.ac.in/wp-content/plugins/blog-designer-for-elementor/assets/css/style.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css' href='https://vnit.ac.in/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.35' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://vnit.ac.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://vnit.ac.in/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.21.8' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://vnit.ac.in/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='https://vnit.ac.in/wp-content/uploads/elementor/css/post-7.css?ver=1717400996' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://vnit.ac.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.21.8' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://vnit.ac.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.21.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://vnit.ac.in/wp-content/uploads/elementor/css/global.css?ver=1717400996' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-25131-css' href='https://vnit.ac.in/wp-content/uploads/elementor/css/post-25131.css?ver=1722574953' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://vnit.ac.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='customify-style-css' href='https://vnit.ac.in/wp-content/themes/customify/style.min.css?ver=0.4.4' type='text/css' media='all' />
+<style id='customify-style-inline-css' type='text/css'>
+.header-top .header--row-inner,body:not(.fl-builder-edit) .button,body:not(.fl-builder-edit) button:not(.menu-mobile-toggle, .components-button, .customize-partial-edit-shortcut-button),body:not(.fl-builder-edit) input[type="button"]:not(.ed_button),button.button,input[type="button"]:not(.ed_button, .components-button, .customize-partial-edit-shortcut-button),input[type="reset"]:not(.components-button, .customize-partial-edit-shortcut-button),input[type="submit"]:not(.components-button, .customize-partial-edit-shortcut-button),.pagination .nav-links > *:hover,.pagination .nav-links span,.nav-menu-desktop.style-full-height .primary-menu-ul > li.current-menu-item > a,.nav-menu-desktop.style-full-height .primary-menu-ul > li.current-menu-ancestor > a,.nav-menu-desktop.style-full-height .primary-menu-ul > li > a:hover,.posts-layout .readmore-button:hover{    background-color: #235787;}.posts-layout .readmore-button {color: #235787;}.pagination .nav-links > *:hover,.pagination .nav-links span,.entry-single .tags-links a:hover,.entry-single .cat-links a:hover,.posts-layout .readmore-button,.posts-layout .readmore-button:hover{    border-color: #235787;}.customify-builder-btn{    background-color: #c3512f;}body{    color: #686868;}abbr, acronym {    border-bottom-color: #686868;}a                {                    color: #1e4b75;}a:hover,a:focus,.link-meta:hover, .link-meta a:hover{    color: #111111;}h2 + h3,.comments-area h2 + .comments-title,.h2 + h3,.comments-area .h2 + .comments-title,.page-breadcrumb {    border-top-color: #eaecee;}blockquote,.site-content .widget-area .menu li.current-menu-item > a:before{    border-left-color: #eaecee;}@media screen and (min-width: 64em) {    .comment-list .children li.comment {        border-left-color: #eaecee;    }    .comment-list .children li.comment:after {        background-color: #eaecee;    }}.page-titlebar, .page-breadcrumb,.posts-layout .entry-inner {    border-bottom-color: #eaecee;}.header-search-form .search-field,.entry-content .page-links a,.header-search-modal,.pagination .nav-links > *,.entry-footer .tags-links a, .entry-footer .cat-links a,.search .content-area article,.site-content .widget-area .menu li.current-menu-item > a,.posts-layout .entry-inner,.post-navigation .nav-links,article.comment .comment-meta,.widget-area .widget_pages li a, .widget-area .widget_categories li a, .widget-area .widget_archive li a, .widget-area .widget_meta li a, .widget-area .widget_nav_menu li a, .widget-area .widget_product_categories li a, .widget-area .widget_recent_entries li a, .widget-area .widget_rss li a,.widget-area .widget_recent_comments li{    border-color: #eaecee;}.header-search-modal::before {    border-top-color: #eaecee;    border-left-color: #eaecee;}@media screen and (min-width: 48em) {    .content-sidebar.sidebar_vertical_border .content-area {        border-right-color: #eaecee;    }    .sidebar-content.sidebar_vertical_border .content-area {        border-left-color: #eaecee;    }    .sidebar-sidebar-content.sidebar_vertical_border .sidebar-primary {        border-right-color: #eaecee;    }    .sidebar-sidebar-content.sidebar_vertical_border .sidebar-secondary {        border-right-color: #eaecee;    }    .content-sidebar-sidebar.sidebar_vertical_border .sidebar-primary {        border-left-color: #eaecee;    }    .content-sidebar-sidebar.sidebar_vertical_border .sidebar-secondary {        border-left-color: #eaecee;    }    .sidebar-content-sidebar.sidebar_vertical_border .content-area {        border-left-color: #eaecee;        border-right-color: #eaecee;    }    .sidebar-content-sidebar.sidebar_vertical_border .content-area {        border-left-color: #eaecee;        border-right-color: #eaecee;    }}article.comment .comment-post-author {background: #6d6d6d;}.pagination .nav-links > *,.link-meta,.link-meta a,.color-meta,.entry-single .tags-links:before,.entry-single .cats-links:before{    color: #6d6d6d;}h1, h2, h3, h4, h5, h6 { color: #2b2b2b;}.site-content .widget-title { color: #444444;}#page-cover {-webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;}#page-cover {background-position: center;}#page-cover {background-repeat: no-repeat;}#page-cover:before {background-color: #335a76;}.header--row:not(.header--transparent).header-top .header--row-inner  {background-color: #153044;border-style: solid;border-top-width: 0px;border-right-width: 0px;border-bottom-width: 1px;border-left-width: 0px;border-color: rgba(244,244,244,0.11);} .header--row:not(.header--transparent).header-main .header--row-inner  {border-style: solid;border-top-width: 0px;border-right-width: 0px;border-bottom-width: 0px;border-left-width: 0px;border-color: #eaeaea;box-shadow: 0px 0px 0px 0px rgba(0,0,0,0) ;;} .header--row:not(.header--transparent).header-bottom .header--row-inner  {background-color: #153044;} .sub-menu .li-duplicator {display:none !important;}.builder-header-html-item.item--html p, .builder-header-html-item.item--html {text-transform: none;font-size: 16px;}.header-search_icon-item .header-search-modal  {border-style: solid;} .header-search_icon-item .search-field  {border-style: solid;} .dark-mode .header-search_box-item .search-form-fields, .header-search_box-item .search-form-fields  {border-style: solid;} .nav-menu-desktop.style-border-bottom .primary-menu-ul > li > a .link-before:before, .nav-menu-desktop.style-border-top .primary-menu-ul > li > a .link-before:before  { height: 1px; }.nav-menu-desktop.style-border-bottom .primary-menu-ul > li:hover > a .link-before:before,                 .nav-menu-desktop.style-border-bottom .primary-menu-ul > li.current-menu-item > a .link-before:before,                 .nav-menu-desktop.style-border-bottom .primary-menu-ul > li.current-menu-ancestor > a .link-before:before,                .nav-menu-desktop.style-border-top .primary-menu-ul > li:hover > a .link-before:before,                .nav-menu-desktop.style-border-top .primary-menu-ul > li.current-menu-item > a .link-before:before,                 .nav-menu-desktop.style-border-top .primary-menu-ul > li.current-menu-ancestor > a .link-before:before                { background-color: #dbb51e; }a.item--button  {background-color: #ff9d2d;border-top-left-radius: 3px;border-top-right-radius: 3px;border-bottom-right-radius: 3px;border-bottom-left-radius: 3px;} a.item--button:hover  {background-color: #ff8800;border-style: none;} .header-social-icons.customify-builder-social-icons.color-custom li a:hover {color: rgba(255,255,255,0.85);}#cb-row--footer-main .footer--row-inner {background-color: #1b374c}#cb-row--footer-bottom .footer--row-inner {background-color: #153044}body  {background-color: #FFFFFF;} .site-content .content-area  {background-color: #FFFFFF;} /* CSS for desktop */#blog-posts .posts-layout .entry .entry-media:not(.no-ratio) {padding-top: 7%;}#blog-posts .posts-layout .entry-media, #blog-posts .posts-layout.layout--blog_classic .entry-media {flex-basis: 40%; width: 40%;}#page-cover {text-align: center;}#page-cover .page-cover-inner {min-height: 250px;}.header--row.header-top .customify-grid, .header--row.header-top .style-full-height .primary-menu-ul > li > a {min-height: 33px;}.header--row.header-main .customify-grid, .header--row.header-main .style-full-height .primary-menu-ul > li > a {min-height: 90px;}.header--row.header-bottom .customify-grid, .header--row.header-bottom .style-full-height .primary-menu-ul > li > a {min-height: 55px;}.site-header .site-branding img { max-width: 560px; } .site-header .cb-row--mobile .site-branding img { width: 560px; }.header--row .builder-item--nav-icon, .builder-item.builder-item--group .item--inner.builder-item--nav-icon {margin-right: 23px;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header--row .builder-item--search_icon, .builder-item.builder-item--group .item--inner.builder-item--search_icon {margin-right: 20px;}.header--row .builder-first--search_icon {text-align: right;}.header-search_box-item .search-submit{margin-left: -40px;} .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;} .header-search_box-item .header-search-form button.search-submit{margin-left:-40px;}.header--row .builder-first--primary-menu {text-align: center;}.header--row .builder-first--button {text-align: right;}.header-social-icons.customify-builder-social-icons li a { font-size: 18px; }.header-social-icons.customify-builder-social-icons li a {padding: 0.3em;}.header-social-icons.customify-builder-social-icons li {margin-left: 4px; margin-right: 4px;}.header--row .builder-first--social-icons {text-align: right;}/* CSS for tablet */@media screen and (max-width: 1024px) { #page-cover .page-cover-inner {min-height: 250px;}.header--row .builder-item--nav-icon, .builder-item.builder-item--group .item--inner.builder-item--nav-icon {margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header--row .builder-first--search_icon {text-align: right;}.header-search_box-item .search-submit{margin-left: -40px;} .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;} .header-search_box-item .header-search-form button.search-submit{margin-left:-40px;} }/* CSS for mobile */@media screen and (max-width: 568px) { #page-cover .page-cover-inner {min-height: 200px;}.header--row.header-top .customify-grid, .header--row.header-top .style-full-height .primary-menu-ul > li > a {min-height: 33px;}.header--row.header-main .customify-grid, .header--row.header-main .style-full-height .primary-menu-ul > li > a {min-height: 66px;}.builder-header-html-item.item--html p, .builder-header-html-item.item--html {font-size: 16px;}.site-header .site-branding img { max-width: 264px; } .site-header .cb-row--mobile .site-branding img { width: 264px; }.header--row .builder-item--nav-icon, .builder-item.builder-item--group .item--inner.builder-item--nav-icon {margin-right: 0px;}.header--row .builder-first--nav-icon {text-align: right;}.header-search_icon-item .search-submit {margin-left: -40px;}.header--row .builder-item--search_icon, .builder-item.builder-item--group .item--inner.builder-item--search_icon {margin-right: 10px;}.header--row .builder-first--search_icon {text-align: right;}.header-search_box-item .search-form-fields {width: 288px;}.header-search_box-item .search-submit{margin-left: -40px;} .header-search_box-item .woo_bootster_search .search-submit{margin-left: -40px;} .header-search_box-item .header-search-form button.search-submit{margin-left:-40px;}.header-social-icons.customify-builder-social-icons li a { font-size: 22px; }.header-social-icons.customify-builder-social-icons li a {padding: 0.1em;}.header-social-icons.customify-builder-social-icons li {margin-left: 10px; margin-right: 10px;}.header--row .builder-first--social-icons {text-align: left;} }
+</style>
+<link rel='stylesheet' id='ffs-easyResponsiveTabs-css' href='https://vnit.ac.in/wp-content/plugins/Fruitful-shortcodes-master/includes/shortcodes/js/tabs/easy-responsive-tabs.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ffs-fontawesome-css' href='https://vnit.ac.in/wp-content/plugins/Fruitful-shortcodes-master/includes/shortcodes/css/font-awesome.min.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='ffs-styles-css' href='https://vnit.ac.in/wp-content/plugins/Fruitful-shortcodes-master/includes/shortcodes/css/ffs_styles.css?ver=6.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.5.5' type='text/css' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><!--n2css--><script type="text/javascript" src="https://vnit.ac.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.21.8" id="font-awesome-4-shim-js"></script>
+<link rel="https://api.w.org/" href="https://vnit.ac.in/wp-json/" /><link rel="alternate" type="application/json" href="https://vnit.ac.in/wp-json/wp/v2/pages/791" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://vnit.ac.in/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.5" />
+<link rel="canonical" href="https://vnit.ac.in/maps-directions/" />
+<link rel='shortlink' href='https://vnit.ac.in/?p=791' />
+<link rel="alternate" type="application/json+oembed" href="https://vnit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvnit.ac.in%2Fmaps-directions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://vnit.ac.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fvnit.ac.in%2Fmaps-directions%2F&#038;format=xml" />
+		<script>
+			( function() {
+				window.onpageshow = function( event ) {
+					// Defined window.wpforms means that a form exists on a page.
+					// If so and back/forward button has been clicked,
+					// force reload a page to prevent the submit button state stuck.
+					if ( typeof window.wpforms !== 'undefined' && event.persisted ) {
+						window.location.reload();
+					}
+				};
+			}() );
+		</script>
+		<meta name="generator" content="Elementor 3.21.8; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://vnit.ac.in/wp-content/uploads/2024/02/cropped-VNIT-Logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://vnit.ac.in/wp-content/uploads/2024/02/cropped-VNIT-Logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://vnit.ac.in/wp-content/uploads/2024/02/cropped-VNIT-Logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://vnit.ac.in/wp-content/uploads/2024/02/cropped-VNIT-Logo-270x270.png" />
+<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-border-style: solid;
+--wpforms-field-border-size: 1px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-border-color-spare: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-field-menu-color: #ffffff;
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-border-style: none;
+--wpforms-button-border-size: 1px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-border-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-page-break-color: #066aab;
+--wpforms-background-image: none;
+--wpforms-background-position: center center;
+--wpforms-background-repeat: no-repeat;
+--wpforms-background-size: cover;
+--wpforms-background-width: 100px;
+--wpforms-background-height: 100px;
+--wpforms-background-color: rgba( 0, 0, 0, 0 );
+--wpforms-background-url: none;
+--wpforms-container-padding: 0px;
+--wpforms-container-border-style: none;
+--wpforms-container-border-width: 1px;
+--wpforms-container-border-color: #000000;
+--wpforms-container-border-radius: 3px;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+--wpforms-container-shadow-size-box-shadow: none;
+
+				}
+			</style></head>
+
+<body class="page-template page-template-templates page-template-fullwidth page-template-templatesfullwidth-php page page-id-791 wp-custom-logo non-logged-in ehf-footer ehf-template-customify ehf-stylesheet-customify content main-layout-content site-full-width menu_sidebar_dropdown elementor-default elementor-kit-7">
+<div id="page" class="site box-shadow">
+	<a class="skip-link screen-reader-text" href="#site-content">Skip to content</a>
+	<a class="close is-size-medium  close-panel close-sidebar-panel" href="#">
+        <span class="hamburger hamburger--squeeze is-active">
+            <span class="hamburger-box">
+              <span class="hamburger-inner"><span class="screen-reader-text">Menu</span></span>
+            </span>
+        </span>
+        <span class="screen-reader-text">Close</span>
+        </a><header id="masthead" class="site-header header-v2"><div id="masthead-inner" class="site-header-inner">							<div  class="header-main header--row layout-fullwidth"  id="cb-row--header-main"  data-row-id="main"  data-show-on="desktop mobile">
+								<div class="header--row-inner header-main-inner light-mode">
+									<div class="customify-container">
+										<div class="customify-grid  cb-row--desktop hide-on-mobile hide-on-tablet customify-grid-middle"><div class="row-v2 row-v2-main full-cols"><div class="col-v2 col-v2-left"><div class="item--inner builder-item--html" data-section="header_html" data-item-id="html" ><div class="builder-header-html-item item--html"><div class="gtranslate_wrapper" id="gt-wrapper-22901322"></div>
+</div></div></div><div class="col-v2 col-v2-center"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo" >		<div class="site-branding logo-top">
+						<a href="https://vnit.ac.in/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="https://vnit.ac.in/wp-content/uploads/2024/02/VNIT-Logo.png" alt="VNIT Nagpur">
+							</a>
+					</div><!-- .site-branding -->
+		</div></div><div class="col-v2 col-v2-right"><div class="item--inner builder-item--social-icons" data-section="header_social_icons" data-item-id="social-icons" ><ul class="header-social-icons customify-builder-social-icons color-default"><li><a class="social-icon-facebook-f shape-square" rel="nofollow" target="_self" href="https://www.facebook.com/vnitnagpur.official" aria-label="Facebook"><i class="social-icon fa fa-facebook-f" title="Facebook"></i></a></li><li><a class="social-icon-twitter shape-square" rel="nofollow" target="_self" href="https://twitter.com/vnitn18" aria-label="Twitter"><i class="social-icon fa fa-twitter" title="Twitter"></i></a></li><li><a class="social-icon-youtube-play shape-square" rel="nofollow" target="_self" href="https://www.youtube.com/channel/UC8nVHdLguN04utsTtUfinTg" aria-label="Youtube"><i class="social-icon fa fa-youtube-play" title="Youtube"></i></a></li></ul></div><div class="item--inner builder-item--search_icon" data-section="search_icon" data-item-id="search_icon" ><div class="header-search_icon-item item--search_icon">		<a class="search-icon" href="#" aria-label="open search tool">
+			<span class="ic-search">
+				<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+					<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+				</svg>
+			</span>
+			<span class="ic-close">
+				<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px" height="612px" viewBox="0 0 612 612" fill="currentColor" style="enable-background:new 0 0 612 612;" xml:space="preserve"><g><g id="cross"><g><polygon points="612,36.004 576.521,0.603 306,270.608 35.478,0.603 0,36.004 270.522,306.011 0,575.997 35.478,611.397 306,341.411 576.521,611.397 612,575.997 341.459,306.011 " /></g></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+			</span>
+			<span class="arrow-down"></span>
+		</a>
+		<div class="header-search-modal-wrapper">
+			<form role="search" class="header-search-modal header-search-form" action="https://vnit.ac.in/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search ..." value="" name="s" title="Search for:" />
+				</label>
+				<button type="submit" class="search-submit" aria-label="submit search">
+					<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+						<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+					</svg>
+				</button>
+			</form>
+		</div>
+		</div></div></div></div></div><div class="cb-row--mobile hide-on-desktop customify-grid customify-grid-middle"><div class="row-v2 row-v2-main no-center"><div class="col-v2 col-v2-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo" >		<div class="site-branding logo-top">
+						<a href="https://vnit.ac.in/" class="logo-link" rel="home" itemprop="url">
+				<img class="site-img-logo" src="https://vnit.ac.in/wp-content/uploads/2024/02/VNIT-Logo.png" alt="VNIT Nagpur">
+							</a>
+					</div><!-- .site-branding -->
+		</div></div><div class="col-v2 col-v2-right"><div class="item--inner builder-item--search_icon" data-section="search_icon" data-item-id="search_icon" ><div class="header-search_icon-item item--search_icon">		<a class="search-icon" href="#" aria-label="open search tool">
+			<span class="ic-search">
+				<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+					<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+				</svg>
+			</span>
+			<span class="ic-close">
+				<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px" height="612px" viewBox="0 0 612 612" fill="currentColor" style="enable-background:new 0 0 612 612;" xml:space="preserve"><g><g id="cross"><g><polygon points="612,36.004 576.521,0.603 306,270.608 35.478,0.603 0,36.004 270.522,306.011 0,575.997 35.478,611.397 306,341.411 576.521,611.397 612,575.997 341.459,306.011 " /></g></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+			</span>
+			<span class="arrow-down"></span>
+		</a>
+		<div class="header-search-modal-wrapper">
+			<form role="search" class="header-search-modal header-search-form" action="https://vnit.ac.in/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search ..." value="" name="s" title="Search for:" />
+				</label>
+				<button type="submit" class="search-submit" aria-label="submit search">
+					<svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21">
+						<path fill="currentColor" fill-rule="evenodd" d="M12.514 14.906a8.264 8.264 0 0 1-4.322 1.21C3.668 16.116 0 12.513 0 8.07 0 3.626 3.668.023 8.192.023c4.525 0 8.193 3.603 8.193 8.047 0 2.033-.769 3.89-2.035 5.307l4.999 5.552-1.775 1.597-5.06-5.62zm-4.322-.843c3.37 0 6.102-2.684 6.102-5.993 0-3.31-2.732-5.994-6.102-5.994S2.09 4.76 2.09 8.07c0 3.31 2.732 5.993 6.102 5.993z"></path>
+					</svg>
+				</button>
+			</form>
+		</div>
+		</div></div><div class="item--inner builder-item--nav-icon" data-section="header_menu_icon" data-item-id="nav-icon" >		<button type="button" class="menu-mobile-toggle item-button is-size-desktop-medium is-size-tablet-medium is-size-mobile-medium"  aria-label="nav icon">
+			<span class="hamburger hamburger--squeeze">
+				<span class="hamburger-box">
+					<span class="hamburger-inner"></span>
+				</span>
+			</span>
+			<span class="nav-icon--label hide-on-desktop hide-on-tablet hide-on-mobile">Menu</span></button>
+		</div></div></div></div>									</div>
+								</div>
+							</div>
+														<div  class="header-bottom header--row layout-fullwidth"  id="cb-row--header-bottom"  data-row-id="bottom"  data-show-on="desktop">
+								<div class="header--row-inner header-bottom-inner dark-mode">
+									<div class="customify-container">
+										<div class="customify-grid  cb-row--desktop hide-on-mobile hide-on-tablet customify-grid-middle"><div class="row-v2 row-v2-bottom no-left no-right"><div class="col-v2 col-v2-left"></div><div class="col-v2 col-v2-center"><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu" ><nav  id="site-navigation-bottom-desktop" class="site-navigation primary-menu primary-menu-bottom nav-menu-desktop primary-menu-desktop style-border-bottom"><ul id="menu-menu-1" class="primary-menu-ul menu nav-menu"><li id="menu-item--bottom-desktop-20233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20233"><a href="https://vnit.ac.in/"><span class="link-before">Home</span></a></li>
+<li id="menu-item--bottom-desktop-19599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19599"><a href="#"><span class="link-before">About<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-23953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23953"><a href="https://vnit.ac.in/chairman/"><span class="link-before">Chairman-BoG</span></a></li>
+	<li id="menu-item--bottom-desktop-23955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23955"><a href="https://vnit.ac.in/director-vnit-nagpur/"><span class="link-before">Director</span></a></li>
+	<li id="menu-item--bottom-desktop-19778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19778"><a href="https://vnit.ac.in/registrar/"><span class="link-before">Registrar</span></a></li>
+	<li id="menu-item--bottom-desktop-19780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19780"><a href="https://vnit.ac.in/deans-and-associate-deans/"><span class="link-before">Deans</span></a></li>
+	<li id="menu-item--bottom-desktop-24632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24632"><a href="https://vnit.ac.in/associate-deans-3/"><span class="link-before">Associate Deans</span></a></li>
+	<li id="menu-item--bottom-desktop-19779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19779"><a href="https://vnit.ac.in/head-of-departments/"><span class="link-before">Head of Departments</span></a></li>
+	<li id="menu-item--bottom-desktop-19604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19604"><a href="#"><span class="link-before">Administration<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19603"><a href="https://drive.google.com/file/d/1m0DEL-zXz2QJwzzBkNv4wICPjLKJpqP-/view?usp=sharing"><span class="link-before">Board of Governors</span></a></li>
+		<li id="menu-item--bottom-desktop-19601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19601"><a href="https://drive.google.com/file/d/1M3-vIFSJgBjgM2v3cOYoLiOAO0JSb-eS/view?usp=sharing"><span class="link-before">Senate Members</span></a></li>
+		<li id="menu-item--bottom-desktop-19605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19605"><a href="https://drive.google.com/file/d/1-g8QDHe5H-toLEMmw5HXhaigXex9FrCi/view?usp=sharing"><span class="link-before">Finance Committee</span></a></li>
+		<li id="menu-item--bottom-desktop-19606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19606"><a href="https://drive.google.com/file/d/1QJflp3Ft_6Up0t84iz7O-blc-Vn_V_Bn/view?usp=sharing"><span class="link-before">Building and Works Committee</span></a></li>
+		<li id="menu-item--bottom-desktop-19607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19607"><a href="#"><span class="link-before">Committees<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-27695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27695"><a href="https://drive.google.com/file/d/19OhD6x9ZmWFFyfFZir-ZZAKF7Z0WqQN6/view?usp=sharing"><span class="link-before">Anti-Ragging Committee</span></a></li>
+			<li id="menu-item--bottom-desktop-23956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23956"><a href="https://vnit.ac.in/staff-selection-committee/"><span class="link-before">Staff Selection Committee</span></a></li>
+			<li id="menu-item--bottom-desktop-19608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19608"><a href="https://drive.google.com/file/d/1QDuBADH1IVBEeedwkbVhD_oTbWm0hdRi/view?usp=sharing"><span class="link-before">Rajbhasha Hindi Committee</span></a></li>
+			<li id="menu-item--bottom-desktop-19609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19609"><a href="http://vnit.ac.in/wp-content/uploads/2023/04/8.-Grievance-Cell-Committee.pdf"><span class="link-before">Grievance Cell Committee</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19611"><a href="https://vnit.ac.in/wp-content/uploads/2024/05/4637-Admin-Special-Cell-office-order.pdf"><span class="link-before">Special Cell</span></a></li>
+		<li id="menu-item--bottom-desktop-19612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19612"><a href="#"><span class="link-before">Account Section<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-23670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23670"><a href="https://vnit.ac.in/accounts-related-circulars/"><span class="link-before">Accounts Related Circulars</span></a></li>
+			<li id="menu-item--bottom-desktop-23680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23680"><a href="https://vnit.ac.in/administrative-forms/"><span class="link-before">Administrative Forms</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-19782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19782"><a href="https://vnit.ac.in/vision-and-mission/"><span class="link-before">Vision and Mission</span></a></li>
+	<li id="menu-item--bottom-desktop-19784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19784"><a href="https://vnit.ac.in/general-information/"><span class="link-before">General Information<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19783"><a href="https://vnit.ac.in/history/"><span class="link-before">History</span></a></li>
+		<li id="menu-item--bottom-desktop-23958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23958"><a href="https://vnit.ac.in/institute-awards/"><span class="link-before">Institute Awards</span></a></li>
+		<li id="menu-item--bottom-desktop-19625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19625"><a href="#"><span class="link-before">Minutes of Meeting<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-23963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23963"><a href="https://vnit.ac.in/senate-meeting/"><span class="link-before">Senate Meeting</span></a></li>
+			<li id="menu-item--bottom-desktop-23964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23964"><a href="https://vnit.ac.in/finance-meeting/"><span class="link-before">Finance Meeting</span></a></li>
+			<li id="menu-item--bottom-desktop-23965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23965"><a href="https://vnit.ac.in/bog-meeting/"><span class="link-before">BoG Meeting</span></a></li>
+			<li id="menu-item--bottom-desktop-23966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23966"><a href="https://vnit.ac.in/bwc-meeting/"><span class="link-before">BWC Meeting</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-23967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23967"><a href="https://vnit.ac.in/annual-reports-annual-accounts/"><span class="link-before">Annual Reports &#038; Annual Accounts<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-23968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23968"><a href="https://vnit.ac.in/bwc-meeting/"><span class="link-before">BWC Members</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19633"><a href="https://vnit.ac.in/wp-content/uploads/2024/05/website-committee-24.pdf"><span class="link-before">Institute Website Committee</span></a></li>
+		<li id="menu-item--bottom-desktop-19634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19634"><a href="https://vnit.ac.in/wp-content/uploads/2024/01/Institutions-Innovation-Council.pdf"><span class="link-before">Institution’s Innovation Council</span></a></li>
+		<li id="menu-item--bottom-desktop-23969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23969"><a href="https://vnit.ac.in/external-links/"><span class="link-before">External Links</span></a></li>
+		<li id="menu-item--bottom-desktop-23970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23970"><a href="https://vnit.ac.in/campus-map/"><span class="link-before">Campus Map</span></a></li>
+		<li id="menu-item--bottom-desktop-23971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23971"><a href="https://vnit.ac.in/contact-us/"><span class="link-before">Contacts</span></a></li>
+		<li id="menu-item--bottom-desktop-23972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23972"><a href="https://vnit.ac.in/telephone-directory/"><span class="link-before">Telephone Directory</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-19639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19639"><a href="#"><span class="link-before">Student Corner<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19640"><a href="#"><span class="link-before">Student Notice Board</span></a></li>
+		<li id="menu-item--bottom-desktop-19641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19641"><a href="#"><span class="link-before">General Info.<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-23974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23974"><a href="https://vnit.ac.in/campus-life/"><span class="link-before">Campus Life</span></a></li>
+			<li id="menu-item--bottom-desktop-19643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19643"><a href="#"><span class="link-before">About Hostel</span></a></li>
+			<li id="menu-item--bottom-desktop-19644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19644"><a href="#"><span class="link-before">Gymkhana</span></a></li>
+			<li id="menu-item--bottom-desktop-19645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19645"><a href="#"><span class="link-before">Official Transcripts</span></a></li>
+			<li id="menu-item--bottom-desktop-19646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19646"><a href="#"><span class="link-before">Campus Facilities</span></a></li>
+			<li id="menu-item--bottom-desktop-19647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19647"><a href="#"><span class="link-before">All About Sports</span></a></li>
+			<li id="menu-item--bottom-desktop-19648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19648"><a href="#"><span class="link-before">Auditoriums &#038; Seminar Halls</span></a></li>
+			<li id="menu-item--bottom-desktop-19649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19649"><a href="#"><span class="link-before">Women’s Grievance Cell</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19650"><a href="#"><span class="link-before">Current Student<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19651"><a href="#"><span class="link-before">Student Council</span></a></li>
+			<li id="menu-item--bottom-desktop-19652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19652"><a href="#"><span class="link-before">Circular</span></a></li>
+			<li id="menu-item--bottom-desktop-19653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19653"><a href="#"><span class="link-before">Academic Forms</span></a></li>
+			<li id="menu-item--bottom-desktop-19654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19654"><a href="#"><span class="link-before">Academic Rule Book</span></a></li>
+			<li id="menu-item--bottom-desktop-19655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19655"><a href="#"><span class="link-before">Ongoing Ph.D’s</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19656"><a href="#"><span class="link-before">Prospective Student<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19657"><a href="#"><span class="link-before">Why VNIT</span></a></li>
+			<li id="menu-item--bottom-desktop-19658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19658"><a href="#"><span class="link-before">Apply to VNIT</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19659"><a href="#"><span class="link-before">International Students</span></a></li>
+		<li id="menu-item--bottom-desktop-19660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19660"><a href="#"><span class="link-before">Campus Placements</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-19661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19661"><a href="#"><span class="link-before">Faculty Corner<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19662"><a href="#"><span class="link-before">Faculty Notice Board</span></a></li>
+		<li id="menu-item--bottom-desktop-19663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19663"><a href="#"><span class="link-before">General Information<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19664"><a href="#"><span class="link-before">Campus Life</span></a></li>
+			<li id="menu-item--bottom-desktop-19665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19665"><a href="#"><span class="link-before">Campus Facilities</span></a></li>
+			<li id="menu-item--bottom-desktop-19666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19666"><a href="#"><span class="link-before">Women’s Grievance cell</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19667"><a href="#"><span class="link-before">Current Faculty<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19668"><a href="#"><span class="link-before">Administrative Forms</span></a></li>
+			<li id="menu-item--bottom-desktop-19669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19669"><a href="#"><span class="link-before">Faculty Information Handbook</span></a></li>
+			<li id="menu-item--bottom-desktop-19670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19670"><a href="#"><span class="link-before">Faculty Club</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19671"><a href="#"><span class="link-before">Prospective Faculty<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19673"><a href="#"><span class="link-before">Current Faculty Positions</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19674"><a href="#"><span class="link-before">Retired Faculty</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-19675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19675"><a href="#"><span class="link-before">Staff Corner<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-23975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23975"><a href="https://vnit.ac.in/director-office-staff/"><span class="link-before">Director Office Staff</span></a></li>
+		<li id="menu-item--bottom-desktop-19677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19677"><a href="#"><span class="link-before">Staff Notice Board</span></a></li>
+		<li id="menu-item--bottom-desktop-19678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19678"><a href="#"><span class="link-before">General Information<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19679"><a href="#"><span class="link-before">Campus Life</span></a></li>
+			<li id="menu-item--bottom-desktop-19680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19680"><a href="#"><span class="link-before">Campus Facilities</span></a></li>
+			<li id="menu-item--bottom-desktop-19610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19610"><a href="http://vnit.ac.in/wp-content/uploads/2023/04/9.-Women-Grievance-Cell.pdf"><span class="link-before">women’s Grievance cell</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19682"><a href="#"><span class="link-before">Administrative Forms</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-19683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19683"><a href="#"><span class="link-before">Guest Corner<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19684"><a href="#"><span class="link-before">Guest House</span></a></li>
+		<li id="menu-item--bottom-desktop-19685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19685"><a href="#"><span class="link-before">General Information<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19686"><a href="#"><span class="link-before">Campus Facilities</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item--bottom-desktop-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="https://vnit.ac.in/section/tnp/"><span class="link-before">Placements</span></a></li>
+<li id="menu-item--bottom-desktop-19613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19613"><a href="#"><span class="link-before">Academics<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-19614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19614"><a href="#"><span class="link-before">Departments<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19615"><a href="#"><span class="link-before">Basic Science<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19617"><a target="_blank" rel="noopener" href="http://vnit.ac.in/basic_science/phy/"><span class="link-before">Department of Physics</span></a></li>
+			<li id="menu-item--bottom-desktop-19618" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19618"><a target="_blank" rel="noopener" href="https://vnit.ac.in/basic_science/chemistry/"><span class="link-before">Department of Chemistry</span></a></li>
+			<li id="menu-item--bottom-desktop-19619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19619"><a target="_blank" rel="noopener" href="https://vnit.ac.in/basic_science/maths/"><span class="link-before">Department of Mathematics</span></a></li>
+			<li id="menu-item--bottom-desktop-19620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19620"><a target="_blank" rel="noopener" href="https://vnit.ac.in/basic_science/hum/"><span class="link-before">Humanities &#038; Social Sciences</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19616"><a href="#"><span class="link-before">Engineering<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19621"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/apm/"><span class="link-before">Applied Mechanics</span></a></li>
+			<li id="menu-item--bottom-desktop-19622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19622"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/cvlsi/"><span class="link-before">Centre for VLSI &#038; Nanotechnology</span></a></li>
+			<li id="menu-item--bottom-desktop-19623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19623"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/chemical/"><span class="link-before">Chemical Engineering</span></a></li>
+			<li id="menu-item--bottom-desktop-19624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19624"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/civil/"><span class="link-before">Civil Engineering</span></a></li>
+			<li id="menu-item--bottom-desktop-19693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19693"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/cse/"><span class="link-before">Computer Science &#038; Engineering</span></a></li>
+			<li id="menu-item--bottom-desktop-19694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19694"><a href="https://vnit.ac.in/engineering/electrical/"><span class="link-before">Electrical Engineering</span></a></li>
+			<li id="menu-item--bottom-desktop-19695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19695"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/ece/"><span class="link-before">Electronics &#038; Communication</span></a></li>
+			<li id="menu-item--bottom-desktop-19696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19696"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/mech/"><span class="link-before">Mechanical Engineering</span></a></li>
+			<li id="menu-item--bottom-desktop-19697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19697"><a href="https://vnit.ac.in/engineering/meta/"><span class="link-before">Metallurgical &#038; Materials Engineering</span></a></li>
+			<li id="menu-item--bottom-desktop-19698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19698"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/mining/"><span class="link-before">Mining Engineering</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19692"><a target="_blank" rel="noopener" href="https://vnit.ac.in/arch/"><span class="link-before">Architecture &#038; Planning</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-19687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19687"><a href="#"><span class="link-before">Sections<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19699"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/academics/"><span class="link-before">Academic &#038; Exam</span></a></li>
+		<li id="menu-item--bottom-desktop-19700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19700"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/stores/"><span class="link-before">Stores</span></a></li>
+		<li id="menu-item--bottom-desktop-19701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19701"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/tnp/"><span class="link-before">Training and Placement</span></a></li>
+		<li id="menu-item--bottom-desktop-19702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19702"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/hostel/"><span class="link-before">Hostels</span></a></li>
+		<li id="menu-item--bottom-desktop-19703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19703"><a href="https://vnit.ac.in/section/sports/"><span class="link-before">Sport</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-19688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19688"><a href="#"><span class="link-before">Centers<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19704"><a href="#"><span class="link-before">Academic Centres<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19705"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/04/cad_cam_dept.pdf"><span class="link-before">CAD – CAM Centre</span></a></li>
+			<li id="menu-item--bottom-desktop-19706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19706"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/04/center_for_materials.pdf"><span class="link-before">Material Engineering Centre</span></a></li>
+			<li id="menu-item--bottom-desktop-19707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19707"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/04/water_resources_engineering_centre.pdf"><span class="link-before">Centre for Water Resource</span></a></li>
+			<li id="menu-item--bottom-desktop-19708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19708"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/04/remote_sensing_and_gis_lab1.pdf"><span class="link-before">Centre for Remote Sensing</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-23980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23980"><a href="https://vnit.ac.in/s-tic-vnit/"><span class="link-before">S-TIC VNIT</span></a></li>
+		<li id="menu-item--bottom-desktop-19710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19710"><a href="https://vnit.ac.in/centre-for-innovation/"><span class="link-before">Centre for Innovation</span></a></li>
+		<li id="menu-item--bottom-desktop-19711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19711"><a href="https://vnit.ac.in/vrjscoe/"><span class="link-before">V R Jamdar Siemens CoE</span></a></li>
+		<li id="menu-item--bottom-desktop-19712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19712"><a href="https://vnit.ac.in/coe/"><span class="link-before">Centre of Excellence</span></a></li>
+		<li id="menu-item--bottom-desktop-19713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19713"><a href="#"><span class="link-before">Academic Service Centres<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-23981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23981"><a href="https://vnit.ac.in/network-centre/"><span class="link-before">Network Centre</span></a></li>
+			<li id="menu-item--bottom-desktop-23982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23982"><a href="https://vnit.ac.in/computer-centre/"><span class="link-before">Computer Centre</span></a></li>
+			<li id="menu-item--bottom-desktop-23983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23983"><a href="https://vnit.ac.in/library-and-information-center/"><span class="link-before">Library and Information Center</span></a></li>
+			<li id="menu-item--bottom-desktop-19717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19717"><a href="https://vnit.ac.in/section/sports/"><span class="link-before">Students &#038; Sports Activity Centre</span></a></li>
+			<li id="menu-item--bottom-desktop-19718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19718"><a href="https://vnit.ac.in/section/tnp/"><span class="link-before">Training &#038; Placement Centre</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-23984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23984"><a href="https://vnit.ac.in/health-centre/"><span class="link-before">Health Centre<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-19720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19720"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1xLg_IztP_GcI42sctCDVsKiMe0s1ftPS/view?usp=sharing"><span class="link-before">Gallery</span></a></li>
+			<li id="menu-item--bottom-desktop-19721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19721"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1YumVp8EaldxflhWPwyTcPMLG9AG0YdJ6/view?usp=sharing"><span class="link-before">Letter to Parents</span></a></li>
+			<li id="menu-item--bottom-desktop-19722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19722"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1h-JwvRl0OdDmEckhgSt-3eWK8-TrJt-J/view?usp=sharing"><span class="link-before">Booklet</span></a></li>
+			<li id="menu-item--bottom-desktop-19723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19723"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1OJIiTDDxj_MFfwyWzd6Y8yuSm3UGQ7-r/view?usp=sharing"><span class="link-before">List of Hospitals</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-19689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19689"><a href="#"><span class="link-before">Continuing Education<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19785"><a href="https://vnit.ac.in/gian/"><span class="link-before">GIAN</span></a></li>
+		<li id="menu-item--bottom-desktop-19724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19724"><a href="https://proposal.sakshat.ac.in/scholarship/index.php/scholarship/scholarship-user/home"><span class="link-before">NME-ICT Project</span></a></li>
+		<li id="menu-item--bottom-desktop-19725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19725"><a target="_blank" rel="noopener" href="https://nptel.ac.in/"><span class="link-before">NPTEL</span></a></li>
+		<li id="menu-item--bottom-desktop-19726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19726"><a href="#"><span class="link-before">STTP/Workshops</span></a></li>
+		<li id="menu-item--bottom-desktop-19786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19786"><a href="https://vnit.ac.in/deans-and-associate-deans/"><span class="link-before">Deans</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-23985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23985"><a href="https://vnit.ac.in/academic-programs/"><span class="link-before">Academic Programs</span></a></li>
+	<li id="menu-item--bottom-desktop-23986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23986"><a href="https://vnit.ac.in/academic-event-calendar/"><span class="link-before">Academic Event Calendar</span></a></li>
+</ul>
+</li>
+<li id="menu-item--bottom-desktop-26545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26545"><a href="https://vnit.ac.in/section/academics/admission/"><span class="link-before">Admission</span></a></li>
+<li id="menu-item--bottom-desktop-19728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19728"><a href="#"><span class="link-before">Research<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-23989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23989"><a href="https://vnit.ac.in/departments-research-area/"><span class="link-before">Departments Research Area</span></a></li>
+	<li id="menu-item--bottom-desktop-23990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23990"><a href="https://vnit.ac.in/participation-in-international-national-conferences/"><span class="link-before">Participation in International/National Conferences</span></a></li>
+	<li id="menu-item--bottom-desktop-23991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23991"><a href="https://vnit.ac.in/research-facilities/"><span class="link-before">Research Facilities</span></a></li>
+	<li id="menu-item--bottom-desktop-23992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23992"><a href="https://vnit.ac.in/ph-d-related/"><span class="link-before">Ph.D Related</span></a></li>
+	<li id="menu-item--bottom-desktop-19787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19787"><a href="https://vnit.ac.in/r-d-projects/"><span class="link-before">R &#038; D Projects</span></a></li>
+	<li id="menu-item--bottom-desktop-19789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19789"><a href="https://vnit.ac.in/research-publication/"><span class="link-before">Research Publication</span></a></li>
+	<li id="menu-item--bottom-desktop-19790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19790"><a href="https://vnit.ac.in/books-authored/"><span class="link-before">Books Authored</span></a></li>
+	<li id="menu-item--bottom-desktop-23994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23994"><a href="https://vnit.ac.in/patents/"><span class="link-before">Patents</span></a></li>
+	<li id="menu-item--bottom-desktop-19734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19734"><a href="https://vnit.ac.in/wp-content/uploads/2024/01/Covid-E-Book_compressed.pdf"><span class="link-before">E-booklet containing the COVID related R &#038; D Works done by CFTIs</span></a></li>
+</ul>
+</li>
+<li id="menu-item--bottom-desktop-19735" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19735"><a href="https://vnit.ac.in/index.php/category/news-events/"><span class="link-before">News &#038; Events<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-19736" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19736"><a href="https://vnit.ac.in/index.php/category/news/"><span class="link-before">News</span></a></li>
+	<li id="menu-item--bottom-desktop-19737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19737"><a href="https://vnit.ac.in/index.php/category/events/"><span class="link-before">Events</span></a></li>
+	<li id="menu-item--bottom-desktop-19738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19738"><a href="https://vnit.ac.in/index.php/category/press-notes/"><span class="link-before">Press Notes</span></a></li>
+	<li id="menu-item--bottom-desktop-23995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23995"><a href="https://vnit.ac.in/research-in-news/"><span class="link-before">Vnit Research in News</span></a></li>
+	<li id="menu-item--bottom-desktop-23996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23996"><a href="https://vnit.ac.in/recruitment/"><span class="link-before">Current Openings</span></a></li>
+	<li id="menu-item--bottom-desktop-23997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23997"><a href="https://vnit.ac.in/gallery/"><span class="link-before">Gallery</span></a></li>
+</ul>
+</li>
+<li id="menu-item--bottom-desktop-19756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19756"><a href="#"><span class="link-before">RTI  Details<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-19757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19757"><a href="https://vnit.ac.in/wp-content/uploads/2023/05/nit-act18-1.pdf"><span class="link-before">NIT Act</span></a></li>
+	<li id="menu-item--bottom-desktop-19758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19758"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/05/nit-statues180.pdf"><span class="link-before">NIT Statutes</span></a></li>
+	<li id="menu-item--bottom-desktop-23998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23998"><a href="https://vnit.ac.in/suo-motu-disclosure/"><span class="link-before">SUO-MOTU disclosure</span></a></li>
+	<li id="menu-item--bottom-desktop-23999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23999"><a href="https://vnit.ac.in/rti-officer/"><span class="link-before">RTI Officer</span></a></li>
+	<li id="menu-item--bottom-desktop-19762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19762"><a href="#"><span class="link-before">Other Details<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-27684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27684"><a href="https://vnit.ac.in/immovable-property-details-v2/"><span class="link-before">Immovable Property Details</span></a></li>
+		<li id="menu-item--bottom-desktop-24001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24001"><a href="https://vnit.ac.in/annual-reports-annual-accounts/"><span class="link-before">Annual Reports &#038; Annual Accounts</span></a></li>
+		<li id="menu-item--bottom-desktop-19765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19765"><a href="#"><span class="link-before">Minutes of Meeting<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--bottom-desktop-24006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24006"><a href="https://vnit.ac.in/senate-meeting/"><span class="link-before">Senate Meeting</span></a></li>
+			<li id="menu-item--bottom-desktop-24005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24005"><a href="https://vnit.ac.in/finance-meeting/"><span class="link-before">Finance Meeting</span></a></li>
+			<li id="menu-item--bottom-desktop-24003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24003"><a href="https://vnit.ac.in/bog-meeting/"><span class="link-before">BoG Meeting</span></a></li>
+			<li id="menu-item--bottom-desktop-24004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24004"><a href="https://vnit.ac.in/bwc-meeting/"><span class="link-before">BWC Meeting</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--bottom-desktop-19770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19770"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1mQ_vjChHj6jBt_TxEDwRsefCX0oWmMLo/view?usp=sharing"><span class="link-before">Schedule For Retention Of Record</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-24020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24020"><a href="https://vnit.ac.in/rti-reports/"><span class="link-before">RTI Reports</span></a></li>
+	<li id="menu-item--bottom-desktop-24019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24019"><a href="https://vnit.ac.in/recruitment-rules/"><span class="link-before">Recruitment Rules</span></a></li>
+	<li id="menu-item--bottom-desktop-19773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19773"><a href="https://vnit.ac.in/wp-content/uploads/2022/12/ESTABLISHMENT_MANUAL.pdf"><span class="link-before">Establishment Manual</span></a></li>
+	<li id="menu-item--bottom-desktop-24024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24024"><a href="https://vnit.ac.in/contact-us/"><span class="link-before">Contact Us</span></a></li>
+</ul>
+</li>
+<li id="menu-item--bottom-desktop-19742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19742"><a href="#"><span class="link-before">Engage With VNIT<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-24032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24032"><a href="https://vnit.ac.in/ongoing-research-collaborations/"><span class="link-before">Ongoing Research Collaboration</span></a></li>
+	<li id="menu-item--bottom-desktop-24031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24031"><a href="https://vnit.ac.in/technology-transfer/"><span class="link-before">Technology Transfer</span></a></li>
+	<li id="menu-item--bottom-desktop-24033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24033"><a href="https://vnit.ac.in/entrepreneurship/"><span class="link-before">Entrepreneurship<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-24603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24603"><a href="https://vnit.ac.in/centre-for-innovation/"><span class="link-before">Centre for Innovation</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--bottom-desktop-19747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19747"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/stores/"><span class="link-before">Tenders</span></a></li>
+</ul>
+</li>
+<li id="menu-item--bottom-desktop-19748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19748"><a href="#"><span class="link-before">ARIIA, NIRF, NBA<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--bottom-desktop-24037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24037"><a href="https://vnit.ac.in/ariia/"><span class="link-before">ARIIA</span></a></li>
+	<li id="menu-item--bottom-desktop-24038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24038"><a href="https://vnit.ac.in/nirf/"><span class="link-before">NIRF</span></a></li>
+	<li id="menu-item--bottom-desktop-19751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19751"><a href="#"><span class="link-before">NBA<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--bottom-desktop-19752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19752"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/05/NBA-status-report-for-UG-PG-programs-2023.pdf"><span class="link-before">NBA Status Report</span></a></li>
+		<li id="menu-item--bottom-desktop-24039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24039"><a href="https://vnit.ac.in/sar/"><span class="link-before">SAR</span></a></li>
+		<li id="menu-item--bottom-desktop-24042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24042"><a href="https://vnit.ac.in/mining/"><span class="link-before">Mining</span></a></li>
+		<li id="menu-item--bottom-desktop-24040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24040"><a href="https://vnit.ac.in/ug-mining-online-compliance-visits/"><span class="link-before">UG Mining Online Compliance Visits</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item--bottom-desktop-19775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19775"><a href="https://pay.vnit.ac.in/home"><span class="link-before">Online Payment</span></a></li>
+<li id="menu-item--bottom-desktop-24041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24041"><a href="https://vnit.ac.in/public-relation-office/"><span class="link-before">Public Relation Office</span></a></li>
+</ul></nav></div></div><div class="col-v2 col-v2-right"></div></div></div>									</div>
+								</div>
+							</div>
+							<div id="header-menu-sidebar" class="header-menu-sidebar menu-sidebar-panel light-mode"><div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg"><div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner"><div class="builder-item-sidebar mobile-item--html"><div class="item--inner" data-item-id="html" data-section="header_html"><div class="builder-header-html-item item--html"><div class="gtranslate_wrapper" id="gt-wrapper-22901322"></div>
+</div></div></div><div class="builder-item-sidebar mobile-item--primary-menu mobile-item--menu "><div class="item--inner" data-item-id="primary-menu" data-section="header_menu_primary"><nav  id="site-navigation-sidebar-mobile" class="site-navigation primary-menu primary-menu-sidebar nav-menu-mobile primary-menu-mobile style-border-bottom"><ul id="menu-menu-1" class="primary-menu-ul menu nav-menu"><li id="menu-item--sidebar-mobile-20233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20233"><a href="https://vnit.ac.in/"><span class="link-before">Home</span></a></li>
+<li id="menu-item--sidebar-mobile-19599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19599"><a href="#"><span class="link-before">About<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-23953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23953"><a href="https://vnit.ac.in/chairman/"><span class="link-before">Chairman-BoG</span></a></li>
+	<li id="menu-item--sidebar-mobile-23955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23955"><a href="https://vnit.ac.in/director-vnit-nagpur/"><span class="link-before">Director</span></a></li>
+	<li id="menu-item--sidebar-mobile-19778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19778"><a href="https://vnit.ac.in/registrar/"><span class="link-before">Registrar</span></a></li>
+	<li id="menu-item--sidebar-mobile-19780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19780"><a href="https://vnit.ac.in/deans-and-associate-deans/"><span class="link-before">Deans</span></a></li>
+	<li id="menu-item--sidebar-mobile-24632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24632"><a href="https://vnit.ac.in/associate-deans-3/"><span class="link-before">Associate Deans</span></a></li>
+	<li id="menu-item--sidebar-mobile-19779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19779"><a href="https://vnit.ac.in/head-of-departments/"><span class="link-before">Head of Departments</span></a></li>
+	<li id="menu-item--sidebar-mobile-19604" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19604"><a href="#"><span class="link-before">Administration<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19603"><a href="https://drive.google.com/file/d/1m0DEL-zXz2QJwzzBkNv4wICPjLKJpqP-/view?usp=sharing"><span class="link-before">Board of Governors</span></a></li>
+		<li id="menu-item--sidebar-mobile-19601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19601"><a href="https://drive.google.com/file/d/1M3-vIFSJgBjgM2v3cOYoLiOAO0JSb-eS/view?usp=sharing"><span class="link-before">Senate Members</span></a></li>
+		<li id="menu-item--sidebar-mobile-19605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19605"><a href="https://drive.google.com/file/d/1-g8QDHe5H-toLEMmw5HXhaigXex9FrCi/view?usp=sharing"><span class="link-before">Finance Committee</span></a></li>
+		<li id="menu-item--sidebar-mobile-19606" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19606"><a href="https://drive.google.com/file/d/1QJflp3Ft_6Up0t84iz7O-blc-Vn_V_Bn/view?usp=sharing"><span class="link-before">Building and Works Committee</span></a></li>
+		<li id="menu-item--sidebar-mobile-19607" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19607"><a href="#"><span class="link-before">Committees<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-27695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27695"><a href="https://drive.google.com/file/d/19OhD6x9ZmWFFyfFZir-ZZAKF7Z0WqQN6/view?usp=sharing"><span class="link-before">Anti-Ragging Committee</span></a></li>
+			<li id="menu-item--sidebar-mobile-23956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23956"><a href="https://vnit.ac.in/staff-selection-committee/"><span class="link-before">Staff Selection Committee</span></a></li>
+			<li id="menu-item--sidebar-mobile-19608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19608"><a href="https://drive.google.com/file/d/1QDuBADH1IVBEeedwkbVhD_oTbWm0hdRi/view?usp=sharing"><span class="link-before">Rajbhasha Hindi Committee</span></a></li>
+			<li id="menu-item--sidebar-mobile-19609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19609"><a href="http://vnit.ac.in/wp-content/uploads/2023/04/8.-Grievance-Cell-Committee.pdf"><span class="link-before">Grievance Cell Committee</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19611" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19611"><a href="https://vnit.ac.in/wp-content/uploads/2024/05/4637-Admin-Special-Cell-office-order.pdf"><span class="link-before">Special Cell</span></a></li>
+		<li id="menu-item--sidebar-mobile-19612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19612"><a href="#"><span class="link-before">Account Section<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-23670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23670"><a href="https://vnit.ac.in/accounts-related-circulars/"><span class="link-before">Accounts Related Circulars</span></a></li>
+			<li id="menu-item--sidebar-mobile-23680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23680"><a href="https://vnit.ac.in/administrative-forms/"><span class="link-before">Administrative Forms</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-19782" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19782"><a href="https://vnit.ac.in/vision-and-mission/"><span class="link-before">Vision and Mission</span></a></li>
+	<li id="menu-item--sidebar-mobile-19784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19784"><a href="https://vnit.ac.in/general-information/"><span class="link-before">General Information<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19783"><a href="https://vnit.ac.in/history/"><span class="link-before">History</span></a></li>
+		<li id="menu-item--sidebar-mobile-23958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23958"><a href="https://vnit.ac.in/institute-awards/"><span class="link-before">Institute Awards</span></a></li>
+		<li id="menu-item--sidebar-mobile-19625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19625"><a href="#"><span class="link-before">Minutes of Meeting<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-23963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23963"><a href="https://vnit.ac.in/senate-meeting/"><span class="link-before">Senate Meeting</span></a></li>
+			<li id="menu-item--sidebar-mobile-23964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23964"><a href="https://vnit.ac.in/finance-meeting/"><span class="link-before">Finance Meeting</span></a></li>
+			<li id="menu-item--sidebar-mobile-23965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23965"><a href="https://vnit.ac.in/bog-meeting/"><span class="link-before">BoG Meeting</span></a></li>
+			<li id="menu-item--sidebar-mobile-23966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23966"><a href="https://vnit.ac.in/bwc-meeting/"><span class="link-before">BWC Meeting</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-23967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23967"><a href="https://vnit.ac.in/annual-reports-annual-accounts/"><span class="link-before">Annual Reports &#038; Annual Accounts<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-23968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23968"><a href="https://vnit.ac.in/bwc-meeting/"><span class="link-before">BWC Members</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19633"><a href="https://vnit.ac.in/wp-content/uploads/2024/05/website-committee-24.pdf"><span class="link-before">Institute Website Committee</span></a></li>
+		<li id="menu-item--sidebar-mobile-19634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19634"><a href="https://vnit.ac.in/wp-content/uploads/2024/01/Institutions-Innovation-Council.pdf"><span class="link-before">Institution’s Innovation Council</span></a></li>
+		<li id="menu-item--sidebar-mobile-23969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23969"><a href="https://vnit.ac.in/external-links/"><span class="link-before">External Links</span></a></li>
+		<li id="menu-item--sidebar-mobile-23970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23970"><a href="https://vnit.ac.in/campus-map/"><span class="link-before">Campus Map</span></a></li>
+		<li id="menu-item--sidebar-mobile-23971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23971"><a href="https://vnit.ac.in/contact-us/"><span class="link-before">Contacts</span></a></li>
+		<li id="menu-item--sidebar-mobile-23972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23972"><a href="https://vnit.ac.in/telephone-directory/"><span class="link-before">Telephone Directory</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-19639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19639"><a href="#"><span class="link-before">Student Corner<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19640"><a href="#"><span class="link-before">Student Notice Board</span></a></li>
+		<li id="menu-item--sidebar-mobile-19641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19641"><a href="#"><span class="link-before">General Info.<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-23974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23974"><a href="https://vnit.ac.in/campus-life/"><span class="link-before">Campus Life</span></a></li>
+			<li id="menu-item--sidebar-mobile-19643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19643"><a href="#"><span class="link-before">About Hostel</span></a></li>
+			<li id="menu-item--sidebar-mobile-19644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19644"><a href="#"><span class="link-before">Gymkhana</span></a></li>
+			<li id="menu-item--sidebar-mobile-19645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19645"><a href="#"><span class="link-before">Official Transcripts</span></a></li>
+			<li id="menu-item--sidebar-mobile-19646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19646"><a href="#"><span class="link-before">Campus Facilities</span></a></li>
+			<li id="menu-item--sidebar-mobile-19647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19647"><a href="#"><span class="link-before">All About Sports</span></a></li>
+			<li id="menu-item--sidebar-mobile-19648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19648"><a href="#"><span class="link-before">Auditoriums &#038; Seminar Halls</span></a></li>
+			<li id="menu-item--sidebar-mobile-19649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19649"><a href="#"><span class="link-before">Women’s Grievance Cell</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19650"><a href="#"><span class="link-before">Current Student<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19651"><a href="#"><span class="link-before">Student Council</span></a></li>
+			<li id="menu-item--sidebar-mobile-19652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19652"><a href="#"><span class="link-before">Circular</span></a></li>
+			<li id="menu-item--sidebar-mobile-19653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19653"><a href="#"><span class="link-before">Academic Forms</span></a></li>
+			<li id="menu-item--sidebar-mobile-19654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19654"><a href="#"><span class="link-before">Academic Rule Book</span></a></li>
+			<li id="menu-item--sidebar-mobile-19655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19655"><a href="#"><span class="link-before">Ongoing Ph.D’s</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19656"><a href="#"><span class="link-before">Prospective Student<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19657"><a href="#"><span class="link-before">Why VNIT</span></a></li>
+			<li id="menu-item--sidebar-mobile-19658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19658"><a href="#"><span class="link-before">Apply to VNIT</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19659"><a href="#"><span class="link-before">International Students</span></a></li>
+		<li id="menu-item--sidebar-mobile-19660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19660"><a href="#"><span class="link-before">Campus Placements</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-19661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19661"><a href="#"><span class="link-before">Faculty Corner<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19662"><a href="#"><span class="link-before">Faculty Notice Board</span></a></li>
+		<li id="menu-item--sidebar-mobile-19663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19663"><a href="#"><span class="link-before">General Information<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19664" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19664"><a href="#"><span class="link-before">Campus Life</span></a></li>
+			<li id="menu-item--sidebar-mobile-19665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19665"><a href="#"><span class="link-before">Campus Facilities</span></a></li>
+			<li id="menu-item--sidebar-mobile-19666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19666"><a href="#"><span class="link-before">Women’s Grievance cell</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19667"><a href="#"><span class="link-before">Current Faculty<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19668"><a href="#"><span class="link-before">Administrative Forms</span></a></li>
+			<li id="menu-item--sidebar-mobile-19669" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19669"><a href="#"><span class="link-before">Faculty Information Handbook</span></a></li>
+			<li id="menu-item--sidebar-mobile-19670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19670"><a href="#"><span class="link-before">Faculty Club</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19671" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19671"><a href="#"><span class="link-before">Prospective Faculty<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19673" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19673"><a href="#"><span class="link-before">Current Faculty Positions</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19674" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19674"><a href="#"><span class="link-before">Retired Faculty</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-19675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19675"><a href="#"><span class="link-before">Staff Corner<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-23975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23975"><a href="https://vnit.ac.in/director-office-staff/"><span class="link-before">Director Office Staff</span></a></li>
+		<li id="menu-item--sidebar-mobile-19677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19677"><a href="#"><span class="link-before">Staff Notice Board</span></a></li>
+		<li id="menu-item--sidebar-mobile-19678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19678"><a href="#"><span class="link-before">General Information<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19679"><a href="#"><span class="link-before">Campus Life</span></a></li>
+			<li id="menu-item--sidebar-mobile-19680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19680"><a href="#"><span class="link-before">Campus Facilities</span></a></li>
+			<li id="menu-item--sidebar-mobile-19610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19610"><a href="http://vnit.ac.in/wp-content/uploads/2023/04/9.-Women-Grievance-Cell.pdf"><span class="link-before">women’s Grievance cell</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19682"><a href="#"><span class="link-before">Administrative Forms</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-19683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19683"><a href="#"><span class="link-before">Guest Corner<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19684"><a href="#"><span class="link-before">Guest House</span></a></li>
+		<li id="menu-item--sidebar-mobile-19685" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19685"><a href="#"><span class="link-before">General Information<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19686"><a href="#"><span class="link-before">Campus Facilities</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item--sidebar-mobile-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="https://vnit.ac.in/section/tnp/"><span class="link-before">Placements</span></a></li>
+<li id="menu-item--sidebar-mobile-19613" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19613"><a href="#"><span class="link-before">Academics<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-19614" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19614"><a href="#"><span class="link-before">Departments<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19615"><a href="#"><span class="link-before">Basic Science<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19617"><a target="_blank" rel="noopener" href="http://vnit.ac.in/basic_science/phy/"><span class="link-before">Department of Physics</span></a></li>
+			<li id="menu-item--sidebar-mobile-19618" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19618"><a target="_blank" rel="noopener" href="https://vnit.ac.in/basic_science/chemistry/"><span class="link-before">Department of Chemistry</span></a></li>
+			<li id="menu-item--sidebar-mobile-19619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19619"><a target="_blank" rel="noopener" href="https://vnit.ac.in/basic_science/maths/"><span class="link-before">Department of Mathematics</span></a></li>
+			<li id="menu-item--sidebar-mobile-19620" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19620"><a target="_blank" rel="noopener" href="https://vnit.ac.in/basic_science/hum/"><span class="link-before">Humanities &#038; Social Sciences</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19616"><a href="#"><span class="link-before">Engineering<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19621"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/apm/"><span class="link-before">Applied Mechanics</span></a></li>
+			<li id="menu-item--sidebar-mobile-19622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19622"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/cvlsi/"><span class="link-before">Centre for VLSI &#038; Nanotechnology</span></a></li>
+			<li id="menu-item--sidebar-mobile-19623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19623"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/chemical/"><span class="link-before">Chemical Engineering</span></a></li>
+			<li id="menu-item--sidebar-mobile-19624" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19624"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/civil/"><span class="link-before">Civil Engineering</span></a></li>
+			<li id="menu-item--sidebar-mobile-19693" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19693"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/cse/"><span class="link-before">Computer Science &#038; Engineering</span></a></li>
+			<li id="menu-item--sidebar-mobile-19694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19694"><a href="https://vnit.ac.in/engineering/electrical/"><span class="link-before">Electrical Engineering</span></a></li>
+			<li id="menu-item--sidebar-mobile-19695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19695"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/ece/"><span class="link-before">Electronics &#038; Communication</span></a></li>
+			<li id="menu-item--sidebar-mobile-19696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19696"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/mech/"><span class="link-before">Mechanical Engineering</span></a></li>
+			<li id="menu-item--sidebar-mobile-19697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19697"><a href="https://vnit.ac.in/engineering/meta/"><span class="link-before">Metallurgical &#038; Materials Engineering</span></a></li>
+			<li id="menu-item--sidebar-mobile-19698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19698"><a target="_blank" rel="noopener" href="https://vnit.ac.in/engineering/mining/"><span class="link-before">Mining Engineering</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19692" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19692"><a target="_blank" rel="noopener" href="https://vnit.ac.in/arch/"><span class="link-before">Architecture &#038; Planning</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-19687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19687"><a href="#"><span class="link-before">Sections<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19699"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/academics/"><span class="link-before">Academic &#038; Exam</span></a></li>
+		<li id="menu-item--sidebar-mobile-19700" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19700"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/stores/"><span class="link-before">Stores</span></a></li>
+		<li id="menu-item--sidebar-mobile-19701" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19701"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/tnp/"><span class="link-before">Training and Placement</span></a></li>
+		<li id="menu-item--sidebar-mobile-19702" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19702"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/hostel/"><span class="link-before">Hostels</span></a></li>
+		<li id="menu-item--sidebar-mobile-19703" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19703"><a href="https://vnit.ac.in/section/sports/"><span class="link-before">Sport</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-19688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19688"><a href="#"><span class="link-before">Centers<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19704"><a href="#"><span class="link-before">Academic Centres<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19705"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/04/cad_cam_dept.pdf"><span class="link-before">CAD – CAM Centre</span></a></li>
+			<li id="menu-item--sidebar-mobile-19706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19706"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/04/center_for_materials.pdf"><span class="link-before">Material Engineering Centre</span></a></li>
+			<li id="menu-item--sidebar-mobile-19707" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19707"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/04/water_resources_engineering_centre.pdf"><span class="link-before">Centre for Water Resource</span></a></li>
+			<li id="menu-item--sidebar-mobile-19708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19708"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/04/remote_sensing_and_gis_lab1.pdf"><span class="link-before">Centre for Remote Sensing</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-23980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23980"><a href="https://vnit.ac.in/s-tic-vnit/"><span class="link-before">S-TIC VNIT</span></a></li>
+		<li id="menu-item--sidebar-mobile-19710" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19710"><a href="https://vnit.ac.in/centre-for-innovation/"><span class="link-before">Centre for Innovation</span></a></li>
+		<li id="menu-item--sidebar-mobile-19711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19711"><a href="https://vnit.ac.in/vrjscoe/"><span class="link-before">V R Jamdar Siemens CoE</span></a></li>
+		<li id="menu-item--sidebar-mobile-19712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19712"><a href="https://vnit.ac.in/coe/"><span class="link-before">Centre of Excellence</span></a></li>
+		<li id="menu-item--sidebar-mobile-19713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19713"><a href="#"><span class="link-before">Academic Service Centres<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-23981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23981"><a href="https://vnit.ac.in/network-centre/"><span class="link-before">Network Centre</span></a></li>
+			<li id="menu-item--sidebar-mobile-23982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23982"><a href="https://vnit.ac.in/computer-centre/"><span class="link-before">Computer Centre</span></a></li>
+			<li id="menu-item--sidebar-mobile-23983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23983"><a href="https://vnit.ac.in/library-and-information-center/"><span class="link-before">Library and Information Center</span></a></li>
+			<li id="menu-item--sidebar-mobile-19717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19717"><a href="https://vnit.ac.in/section/sports/"><span class="link-before">Students &#038; Sports Activity Centre</span></a></li>
+			<li id="menu-item--sidebar-mobile-19718" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19718"><a href="https://vnit.ac.in/section/tnp/"><span class="link-before">Training &#038; Placement Centre</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-23984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23984"><a href="https://vnit.ac.in/health-centre/"><span class="link-before">Health Centre<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-19720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19720"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1xLg_IztP_GcI42sctCDVsKiMe0s1ftPS/view?usp=sharing"><span class="link-before">Gallery</span></a></li>
+			<li id="menu-item--sidebar-mobile-19721" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19721"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1YumVp8EaldxflhWPwyTcPMLG9AG0YdJ6/view?usp=sharing"><span class="link-before">Letter to Parents</span></a></li>
+			<li id="menu-item--sidebar-mobile-19722" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19722"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1h-JwvRl0OdDmEckhgSt-3eWK8-TrJt-J/view?usp=sharing"><span class="link-before">Booklet</span></a></li>
+			<li id="menu-item--sidebar-mobile-19723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19723"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1OJIiTDDxj_MFfwyWzd6Y8yuSm3UGQ7-r/view?usp=sharing"><span class="link-before">List of Hospitals</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-19689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19689"><a href="#"><span class="link-before">Continuing Education<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19785"><a href="https://vnit.ac.in/gian/"><span class="link-before">GIAN</span></a></li>
+		<li id="menu-item--sidebar-mobile-19724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19724"><a href="https://proposal.sakshat.ac.in/scholarship/index.php/scholarship/scholarship-user/home"><span class="link-before">NME-ICT Project</span></a></li>
+		<li id="menu-item--sidebar-mobile-19725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19725"><a target="_blank" rel="noopener" href="https://nptel.ac.in/"><span class="link-before">NPTEL</span></a></li>
+		<li id="menu-item--sidebar-mobile-19726" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19726"><a href="#"><span class="link-before">STTP/Workshops</span></a></li>
+		<li id="menu-item--sidebar-mobile-19786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19786"><a href="https://vnit.ac.in/deans-and-associate-deans/"><span class="link-before">Deans</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-23985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23985"><a href="https://vnit.ac.in/academic-programs/"><span class="link-before">Academic Programs</span></a></li>
+	<li id="menu-item--sidebar-mobile-23986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23986"><a href="https://vnit.ac.in/academic-event-calendar/"><span class="link-before">Academic Event Calendar</span></a></li>
+</ul>
+</li>
+<li id="menu-item--sidebar-mobile-26545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26545"><a href="https://vnit.ac.in/section/academics/admission/"><span class="link-before">Admission</span></a></li>
+<li id="menu-item--sidebar-mobile-19728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19728"><a href="#"><span class="link-before">Research<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-23989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23989"><a href="https://vnit.ac.in/departments-research-area/"><span class="link-before">Departments Research Area</span></a></li>
+	<li id="menu-item--sidebar-mobile-23990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23990"><a href="https://vnit.ac.in/participation-in-international-national-conferences/"><span class="link-before">Participation in International/National Conferences</span></a></li>
+	<li id="menu-item--sidebar-mobile-23991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23991"><a href="https://vnit.ac.in/research-facilities/"><span class="link-before">Research Facilities</span></a></li>
+	<li id="menu-item--sidebar-mobile-23992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23992"><a href="https://vnit.ac.in/ph-d-related/"><span class="link-before">Ph.D Related</span></a></li>
+	<li id="menu-item--sidebar-mobile-19787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19787"><a href="https://vnit.ac.in/r-d-projects/"><span class="link-before">R &#038; D Projects</span></a></li>
+	<li id="menu-item--sidebar-mobile-19789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19789"><a href="https://vnit.ac.in/research-publication/"><span class="link-before">Research Publication</span></a></li>
+	<li id="menu-item--sidebar-mobile-19790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19790"><a href="https://vnit.ac.in/books-authored/"><span class="link-before">Books Authored</span></a></li>
+	<li id="menu-item--sidebar-mobile-23994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23994"><a href="https://vnit.ac.in/patents/"><span class="link-before">Patents</span></a></li>
+	<li id="menu-item--sidebar-mobile-19734" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19734"><a href="https://vnit.ac.in/wp-content/uploads/2024/01/Covid-E-Book_compressed.pdf"><span class="link-before">E-booklet containing the COVID related R &#038; D Works done by CFTIs</span></a></li>
+</ul>
+</li>
+<li id="menu-item--sidebar-mobile-19735" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19735"><a href="https://vnit.ac.in/index.php/category/news-events/"><span class="link-before">News &#038; Events<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-19736" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19736"><a href="https://vnit.ac.in/index.php/category/news/"><span class="link-before">News</span></a></li>
+	<li id="menu-item--sidebar-mobile-19737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19737"><a href="https://vnit.ac.in/index.php/category/events/"><span class="link-before">Events</span></a></li>
+	<li id="menu-item--sidebar-mobile-19738" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19738"><a href="https://vnit.ac.in/index.php/category/press-notes/"><span class="link-before">Press Notes</span></a></li>
+	<li id="menu-item--sidebar-mobile-23995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23995"><a href="https://vnit.ac.in/research-in-news/"><span class="link-before">Vnit Research in News</span></a></li>
+	<li id="menu-item--sidebar-mobile-23996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23996"><a href="https://vnit.ac.in/recruitment/"><span class="link-before">Current Openings</span></a></li>
+	<li id="menu-item--sidebar-mobile-23997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23997"><a href="https://vnit.ac.in/gallery/"><span class="link-before">Gallery</span></a></li>
+</ul>
+</li>
+<li id="menu-item--sidebar-mobile-19756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19756"><a href="#"><span class="link-before">RTI  Details<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-19757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19757"><a href="https://vnit.ac.in/wp-content/uploads/2023/05/nit-act18-1.pdf"><span class="link-before">NIT Act</span></a></li>
+	<li id="menu-item--sidebar-mobile-19758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19758"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/05/nit-statues180.pdf"><span class="link-before">NIT Statutes</span></a></li>
+	<li id="menu-item--sidebar-mobile-23998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23998"><a href="https://vnit.ac.in/suo-motu-disclosure/"><span class="link-before">SUO-MOTU disclosure</span></a></li>
+	<li id="menu-item--sidebar-mobile-23999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23999"><a href="https://vnit.ac.in/rti-officer/"><span class="link-before">RTI Officer</span></a></li>
+	<li id="menu-item--sidebar-mobile-19762" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19762"><a href="#"><span class="link-before">Other Details<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-27684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27684"><a href="https://vnit.ac.in/immovable-property-details-v2/"><span class="link-before">Immovable Property Details</span></a></li>
+		<li id="menu-item--sidebar-mobile-24001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24001"><a href="https://vnit.ac.in/annual-reports-annual-accounts/"><span class="link-before">Annual Reports &#038; Annual Accounts</span></a></li>
+		<li id="menu-item--sidebar-mobile-19765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19765"><a href="#"><span class="link-before">Minutes of Meeting<span class="nav-icon-angle">&nbsp;</span></span></a>
+		<ul class="sub-menu sub-lv-2">
+			<li id="menu-item--sidebar-mobile-24006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24006"><a href="https://vnit.ac.in/senate-meeting/"><span class="link-before">Senate Meeting</span></a></li>
+			<li id="menu-item--sidebar-mobile-24005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24005"><a href="https://vnit.ac.in/finance-meeting/"><span class="link-before">Finance Meeting</span></a></li>
+			<li id="menu-item--sidebar-mobile-24003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24003"><a href="https://vnit.ac.in/bog-meeting/"><span class="link-before">BoG Meeting</span></a></li>
+			<li id="menu-item--sidebar-mobile-24004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24004"><a href="https://vnit.ac.in/bwc-meeting/"><span class="link-before">BWC Meeting</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item--sidebar-mobile-19770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19770"><a target="_blank" rel="noopener" href="https://drive.google.com/file/d/1mQ_vjChHj6jBt_TxEDwRsefCX0oWmMLo/view?usp=sharing"><span class="link-before">Schedule For Retention Of Record</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-24020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24020"><a href="https://vnit.ac.in/rti-reports/"><span class="link-before">RTI Reports</span></a></li>
+	<li id="menu-item--sidebar-mobile-24019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24019"><a href="https://vnit.ac.in/recruitment-rules/"><span class="link-before">Recruitment Rules</span></a></li>
+	<li id="menu-item--sidebar-mobile-19773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19773"><a href="https://vnit.ac.in/wp-content/uploads/2022/12/ESTABLISHMENT_MANUAL.pdf"><span class="link-before">Establishment Manual</span></a></li>
+	<li id="menu-item--sidebar-mobile-24024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24024"><a href="https://vnit.ac.in/contact-us/"><span class="link-before">Contact Us</span></a></li>
+</ul>
+</li>
+<li id="menu-item--sidebar-mobile-19742" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19742"><a href="#"><span class="link-before">Engage With VNIT<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-24032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24032"><a href="https://vnit.ac.in/ongoing-research-collaborations/"><span class="link-before">Ongoing Research Collaboration</span></a></li>
+	<li id="menu-item--sidebar-mobile-24031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24031"><a href="https://vnit.ac.in/technology-transfer/"><span class="link-before">Technology Transfer</span></a></li>
+	<li id="menu-item--sidebar-mobile-24033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24033"><a href="https://vnit.ac.in/entrepreneurship/"><span class="link-before">Entrepreneurship<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-24603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24603"><a href="https://vnit.ac.in/centre-for-innovation/"><span class="link-before">Centre for Innovation</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item--sidebar-mobile-19747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19747"><a target="_blank" rel="noopener" href="https://vnit.ac.in/section/stores/"><span class="link-before">Tenders</span></a></li>
+</ul>
+</li>
+<li id="menu-item--sidebar-mobile-19748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19748"><a href="#"><span class="link-before">ARIIA, NIRF, NBA<span class="nav-icon-angle">&nbsp;</span></span></a>
+<ul class="sub-menu sub-lv-0">
+	<li id="menu-item--sidebar-mobile-24037" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24037"><a href="https://vnit.ac.in/ariia/"><span class="link-before">ARIIA</span></a></li>
+	<li id="menu-item--sidebar-mobile-24038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24038"><a href="https://vnit.ac.in/nirf/"><span class="link-before">NIRF</span></a></li>
+	<li id="menu-item--sidebar-mobile-19751" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19751"><a href="#"><span class="link-before">NBA<span class="nav-icon-angle">&nbsp;</span></span></a>
+	<ul class="sub-menu sub-lv-1">
+		<li id="menu-item--sidebar-mobile-19752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19752"><a href="http://vnit.creata.co.in/wp-content/uploads/2023/05/NBA-status-report-for-UG-PG-programs-2023.pdf"><span class="link-before">NBA Status Report</span></a></li>
+		<li id="menu-item--sidebar-mobile-24039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24039"><a href="https://vnit.ac.in/sar/"><span class="link-before">SAR</span></a></li>
+		<li id="menu-item--sidebar-mobile-24042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24042"><a href="https://vnit.ac.in/mining/"><span class="link-before">Mining</span></a></li>
+		<li id="menu-item--sidebar-mobile-24040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24040"><a href="https://vnit.ac.in/ug-mining-online-compliance-visits/"><span class="link-before">UG Mining Online Compliance Visits</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item--sidebar-mobile-19775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19775"><a href="https://pay.vnit.ac.in/home"><span class="link-before">Online Payment</span></a></li>
+<li id="menu-item--sidebar-mobile-24041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24041"><a href="https://vnit.ac.in/public-relation-office/"><span class="link-before">Public Relation Office</span></a></li>
+</ul></nav></div></div><div class="builder-item-sidebar mobile-item--social-icons"><div class="item--inner" data-item-id="social-icons" data-section="header_social_icons"><ul class="header-social-icons customify-builder-social-icons color-default"><li><a class="social-icon-facebook-f shape-square" rel="nofollow" target="_self" href="https://www.facebook.com/vnitnagpur.official" aria-label="Facebook"><i class="social-icon fa fa-facebook-f" title="Facebook"></i></a></li><li><a class="social-icon-twitter shape-square" rel="nofollow" target="_self" href="https://twitter.com/vnitn18" aria-label="Twitter"><i class="social-icon fa fa-twitter" title="Twitter"></i></a></li><li><a class="social-icon-youtube-play shape-square" rel="nofollow" target="_self" href="https://www.youtube.com/channel/UC8nVHdLguN04utsTtUfinTg" aria-label="Youtube"><i class="social-icon fa fa-youtube-play" title="Youtube"></i></a></li></ul></div></div></div></div></div></div></header>		<div id="page-titlebar" class="page-header--item page-titlebar layout-full-contained">
+			<div class="page-titlebar-inner customify-container">
+				<h1 class="titlebar-title h4">Maps &#038; Directions</h1>			</div>
+		</div>
+					<div id="page-breadcrumb" class="page-header--item page-breadcrumb breadcrumb--below_titlebar layout-full-contained text-uppercase text-xsmall link-meta">
+				<div class="page-breadcrumb-inner customify-container">
+					<ul class="page-breadcrumb-list">
+						<li class="home"><span><a title="Go to VNIT Nagpur." href="https://vnit.ac.in" class="home"><span>VNIT Nagpur</span></a></span></li>
+<li class="post post-page current-item"><span><span class="post post-page current-item">Maps &#038; Directions</span></span></li>
+					</ul>
+				</div>
+			</div>
+				<div id="site-content" class="site-content">
+		<div class="customify-container">
+			<div class="customify-grid">
+				<main id="main" class="content-area customify-col-12">
+						<div class="content-inner">
+		<article id="post-791" class="post-791 page type-page status-publish hentry">
+	
+	<div class="entry-content">
+		<h3><span style="color: #ff6600;">How to reach VNIT</span></h3>
+<div class="ffs-sep" id="ffs-sep-75" style="border-bottom:1px solid #ebebeb;  height:10px; "></div><div class="clearfix"></div>
+<p><strong>From Railway Station</strong></p>
+<p>It takes1 7 minutes to travel from Nagpur Railway Station to Vnit Nagpur. Approximate driving distance between Nagpur Railway Station and Vnit Nagpur is 5.9 kms or 3.7 miles or 3.2 nautical miles . Travel time refers to the time taken if the distance is covered by a car.</p>
+<p><strong>From Air Port</strong></p>
+<p>It takes 20 minutes to travel from Nagpur Airport to Vnit. Approximate driving distance between Nagpur Airport and Vnit is 7 kms or 3.9 miles or 3.2 nautical miles . Travel time refers to the time taken if the distance is covered by a car.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div style="width: 100%;"><iframe src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;coord=21.12310575652915, 79.05157685279848&amp;q=vnit%20nagpur+(vnit)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"><a href="https://www.maps.ie/create-google-map/">Google Maps iframe generator</a></iframe></div>
+<p><!--For Google Map Location <a href="https://www.google.co.in/maps/place/Visvesvaraya+National+Institute+of+Technology,+Nagpur,+Maharashtra/@21.1225456,79.0352268,14z/data=!4m5!3m4!1s0x0:0x2178cb8a2b2f0e8a!8m2!3d21.1229859!4d79.0515132">[saeidrotate class="rotate" animation="fade" separator="|" speed="600" ] <strong>CLICK HERE</strong>.[/saeidrotate]</a>
+--><br />
+&nbsp;</p>
+	</div><!-- .entry-content -->
+
+</article><!-- #post-791 -->
+	</div><!-- #.content-inner -->
+
+		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="25131" class="elementor elementor-25131">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-693ff03 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="693ff03" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-47f7db4" data-id="47f7db4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e0d4599 elementor-widget elementor-widget-heading" data-id="e0d4599" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 26-05-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">| IMPORTANT LINKS</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-92f054a elementor-widget elementor-widget-text-editor" data-id="92f054a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 26-05-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&amp;ifkv=ATuJsjx48BkgpU2N4wwU_JRFCGElGHNIKIh3x7Cy9ChT7dskpykZCxHZSFpNyUQH7JxTAxeMiZsU&amp;rip=1&amp;sacu=1&amp;service=mail&amp;flowName=GlifWebSignIn&amp;flowEntry=ServiceLogin&amp;dsh=S757482%3A1709794200228849&amp;theme=mn" target="_blank" rel="noopener">WebMail</a></span></p><p><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://aims.vnit.ac.in/exam">AIMS Login (Globally) </a> | <a style="color: #ffffff;" href="http://172.31.4.24:8080/exam/">AIMS Login (Within Campus)</a></span></p><p><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://vnit.ac.in/network-troubleshooting/">Network Troubleshooting</a>  |   <a style="color: #ffffff;" href="http://payroll.vnit.ac.in/">Payroll Login</a> | </span><a href="http://vnit.samarth.ac.in/" target="_blank" rel="noopener"><span style="color: #ffffff; font-size: 12pt; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;">Samarth eGov Suite: Login</span></a></p><p><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://mhrd.gov.in/ict-initiatives">ICT Initiatives of Ministry of Education (Shiksha Mantralaya)</a></span></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9fd2384" data-id="9fd2384" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-677eb74 elementor-widget elementor-widget-heading" data-id="677eb74" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">| QUICK LINKS</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-874264f elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="874264f" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://vnit.ac.in/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="https://vnit.ac.in/administrative-forms/" target="_blank">
+
+											<span class="elementor-icon-list-text">Administrative Forms</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://vnit.ac.in/telephone-directory/">
+
+											<span class="elementor-icon-list-text">Telephone Directory</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://vnit.ac.in/maps-directions/">
+
+											<span class="elementor-icon-list-text">Maps & Directions</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="https://vnit.ac.in/contact-us/">
+
+											<span class="elementor-icon-list-text">Contact Us</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0f84e9d" data-id="0f84e9d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-42a6599 elementor-widget elementor-widget-heading" data-id="42a6599" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">| NATIONAL IMPORTANCE</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bc4bb5e gallery-spacing-custom elementor-widget elementor-widget-image-gallery" data-id="bc4bb5e" data-element_type="widget" data-widget_type="image-gallery.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.21.0 - 26-05-2024 */
+.elementor-image-gallery .gallery-item{display:inline-block;text-align:center;vertical-align:top;width:100%;max-width:100%;margin:0 auto}.elementor-image-gallery .gallery-item img{margin:0 auto}.elementor-image-gallery .gallery-item .gallery-caption{margin:0}.elementor-image-gallery figure img{display:block}.elementor-image-gallery figure figcaption{width:100%}.gallery-spacing-custom .elementor-image-gallery .gallery-icon{padding:0}@media (min-width:768px){.elementor-image-gallery .gallery-columns-2 .gallery-item{max-width:50%}.elementor-image-gallery .gallery-columns-3 .gallery-item{max-width:33.33%}.elementor-image-gallery .gallery-columns-4 .gallery-item{max-width:25%}.elementor-image-gallery .gallery-columns-5 .gallery-item{max-width:20%}.elementor-image-gallery .gallery-columns-6 .gallery-item{max-width:16.666%}.elementor-image-gallery .gallery-columns-7 .gallery-item{max-width:14.28%}.elementor-image-gallery .gallery-columns-8 .gallery-item{max-width:12.5%}.elementor-image-gallery .gallery-columns-9 .gallery-item{max-width:11.11%}.elementor-image-gallery .gallery-columns-10 .gallery-item{max-width:10%}}@media (min-width:480px) and (max-width:767px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:50%}}@media (max-width:479px){.elementor-image-gallery .gallery.gallery-columns-2 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-3 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-4 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-5 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-6 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-7 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-8 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-9 .gallery-item,.elementor-image-gallery .gallery.gallery-columns-10 .gallery-item{max-width:100%}}</style>		<div class="elementor-image-gallery">
+			<div id='gallery-1' class='gallery galleryid-791 gallery-columns-3 gallery-size-full'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="bc4bb5e" data-elementor-lightbox-title="dii" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI5MTcsInVybCI6Imh0dHBzOlwvXC92bml0LmFjLmluXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wMVwvZGlpLnBuZyIsInNsaWRlc2hvdyI6ImJjNGJiNWUifQ%3D%3D" href='https://vnit.ac.in/wp-content/uploads/2024/01/dii.png'><img width="590" height="281" src="https://vnit.ac.in/wp-content/uploads/2024/01/dii.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://vnit.ac.in/wp-content/uploads/2024/01/dii.png 590w, https://vnit.ac.in/wp-content/uploads/2024/01/dii-300x143.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="bc4bb5e" data-elementor-lightbox-title="moe" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI5MTgsInVybCI6Imh0dHBzOlwvXC92bml0LmFjLmluXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wMVwvbW9lLnBuZyIsInNsaWRlc2hvdyI6ImJjNGJiNWUifQ%3D%3D" href='https://vnit.ac.in/wp-content/uploads/2024/01/moe.png'><img width="590" height="281" src="https://vnit.ac.in/wp-content/uploads/2024/01/moe.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://vnit.ac.in/wp-content/uploads/2024/01/moe.png 590w, https://vnit.ac.in/wp-content/uploads/2024/01/moe-300x143.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="bc4bb5e" data-elementor-lightbox-title="digilocker_nad" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI5MTksInVybCI6Imh0dHBzOlwvXC92bml0LmFjLmluXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wMVwvZGlnaWxvY2tlcl9uYWQucG5nIiwic2xpZGVzaG93IjoiYmM0YmI1ZSJ9" href='https://vnit.ac.in/wp-content/uploads/2024/01/digilocker_nad.png'><img width="590" height="281" src="https://vnit.ac.in/wp-content/uploads/2024/01/digilocker_nad.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://vnit.ac.in/wp-content/uploads/2024/01/digilocker_nad.png 590w, https://vnit.ac.in/wp-content/uploads/2024/01/digilocker_nad-300x143.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="bc4bb5e" data-elementor-lightbox-title="fit_india" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI5MjAsInVybCI6Imh0dHBzOlwvXC92bml0LmFjLmluXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wMVwvZml0X2luZGlhLnBuZyIsInNsaWRlc2hvdyI6ImJjNGJiNWUifQ%3D%3D" href='https://vnit.ac.in/wp-content/uploads/2024/01/fit_india.png'><img width="590" height="281" src="https://vnit.ac.in/wp-content/uploads/2024/01/fit_india.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://vnit.ac.in/wp-content/uploads/2024/01/fit_india.png 590w, https://vnit.ac.in/wp-content/uploads/2024/01/fit_india-300x143.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="bc4bb5e" data-elementor-lightbox-title="swach_bharath" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI5MjEsInVybCI6Imh0dHBzOlwvXC92bml0LmFjLmluXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wMVwvc3dhY2hfYmhhcmF0aC5wbmciLCJzbGlkZXNob3ciOiJiYzRiYjVlIn0%3D" href='https://vnit.ac.in/wp-content/uploads/2024/01/swach_bharath.png'><img width="590" height="281" src="https://vnit.ac.in/wp-content/uploads/2024/01/swach_bharath.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://vnit.ac.in/wp-content/uploads/2024/01/swach_bharath.png 590w, https://vnit.ac.in/wp-content/uploads/2024/01/swach_bharath-300x143.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="bc4bb5e" data-elementor-lightbox-title="mii" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MjI5MjIsInVybCI6Imh0dHBzOlwvXC92bml0LmFjLmluXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDI0XC8wMVwvbWlpLnBuZyIsInNsaWRlc2hvdyI6ImJjNGJiNWUifQ%3D%3D" href='https://vnit.ac.in/wp-content/uploads/2024/01/mii.png'><img width="590" height="281" src="https://vnit.ac.in/wp-content/uploads/2024/01/mii.png" class="attachment-full size-full" alt="" decoding="async" srcset="https://vnit.ac.in/wp-content/uploads/2024/01/mii.png 590w, https://vnit.ac.in/wp-content/uploads/2024/01/mii-300x143.png 300w" sizes="(max-width: 590px) 100vw, 590px" /></a>
+			</div></figure>
+		</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5ce537a elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="5ce537a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8e8939c" data-id="8e8939c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c19c202 elementor-widget elementor-widget-text-editor" data-id="c19c202" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-size: 10pt;">Copyright © 2024 VNIT Nagpur.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</div>		</footer>
+	</div><!-- #page -->
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/gs-logo-slider/assets/libs/swiper-js/swiper.min.js?ver=3.6.8" id="gs-swiper-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/gs-logo-slider/assets/libs/tippyjs/tippy-bundle.umd.min.js?ver=3.6.8" id="gs-tippyjs-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/gs-logo-slider/assets/libs/images-loaded/images-loaded.min.js?ver=3.6.8" id="gs-images-loaded-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/gs-logo-slider/assets/js/gs-logo.min.js?ver=3.6.8" id="gs-logo-public-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/blog-designer-for-elementor/assets/js/owl-carousel.min.js" id="owl-carousel-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/blog-designer-for-elementor/assets/js/imagesloaded.pkgd.min.js" id="imagesloaded.pkgd-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/blog-designer-for-elementor/assets/js/main.js" id="bdfe-main-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.7" id="page-links-to-js"></script>
+<script type="text/javascript" id="customify-themejs-js-extra">
+/* <![CDATA[ */
+var Customify_JS = {"is_rtl":"","css_media_queries":{"all":"%s","desktop":"%s","tablet":"@media screen and (max-width: 1024px) { %s }","mobile":"@media screen and (max-width: 568px) { %s }"},"sidebar_menu_no_duplicator":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/themes/customify/assets/js/theme.min.js?ver=0.4.4" id="customify-themejs-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/Fruitful-shortcodes-master/includes/shortcodes/js/tabs/easyResponsiveTabs.js?ver=20142803" id="ffs-easyResponsiveTabs-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/Fruitful-shortcodes-master/includes/shortcodes/js/fss_script.js?ver=20142803" id="ffs-script-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/Fruitful-shortcodes-master/includes/shortcodes/bootstrap/js/bootstrap.min.js?ver=20142803" id="ffs-bootstrap-js"></script>
+<script type="text/javascript" id="gt_widget_script_22901322-js-before">
+/* <![CDATA[ */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['22901322'] = {"default_language":"en","languages":["en","hi"],"url_structure":"none","wrapper_selector":"#gt-wrapper-22901322","select_language_label":"Select Language","horizontal_position":"inline","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+/* ]]> */
+</script><script src="https://vnit.ac.in/wp-content/plugins/gtranslate/js/dropdown.js?ver=6.5.5" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/maps-directions/" data-gt-orig-domain="vnit.ac.in" data-gt-widget-id="22901322" defer></script><script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.21.8" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.21.8" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},
+"version":"3.21.8","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"container_grid":true,"home_screen":true,"ai-layout":true,"landing-pages":true},"urls":{"assets":"https:\/\/vnit.ac.in\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":791,"title":"Maps%20%26%20Directions%20%E2%80%93%20VNIT%20Nagpur","excerpt":"","featuredImage":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.21.8" id="elementor-frontend-js"></script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-includes/js/wp-util.min.js?ver=6.5.5" id="wp-util-js"></script>
+<script type="text/javascript" id="wpforms-elementor-js-extra">
+/* <![CDATA[ */
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://vnit.ac.in/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.8.3" id="wpforms-elementor-js"></script>
+</body>
+</html> 
+
+
+<!-- Page supported by LiteSpeed Cache 6.2.0.1 on 2024-08-31 17:16:05 -->
